@@ -1,0 +1,2001 @@
+origen,destino,hora,dia_semana,preferencia,satisfaccion
+Terminal,Virrey,8,Sabado,Transitada,Alta
+Calle 187,Calle 106,13,Viernes,Costosa,Media
+Calle 1,Prado Veraniego,10,Jueves,Rapida,Baja
+Calle 85,Calle 100,12,Viernes,Costosa,Alta
+Alcala,Cardio Infantil,14,Lunes,Directa,Media
+Flores,Calle 142,13,Sabado,Transitada,Media
+Calle 1,Calle 57,9,Miercoles,Transitada,Baja
+Calle 72,Calle 187,9,Viernes,Transitada,Media
+Calle 1,Calle 63,14,Miercoles,Costosa,Alta
+Calle 76,Marly,15,Viernes,Directa,Media
+Calle 26,Prado Veraniego,11,Martes,Costosa,Alta
+Calle 72,Marly,15,Sabado,Rapida,Baja
+Cardio Infantil,Calle 106,9,Sabado,Economica,Media
+Calle 19,Cardio Infantil,11,Lunes,Rapida,Media
+Calle 1,Calle 19,8,Martes,Transitada,Baja
+Calle 146,Calle 45,11,Viernes,Directa,Media
+Profamilia,Calle 106,9,Miercoles,Costosa,Alta
+Calle 187,Avenida 39,8,Viernes,Costosa,Baja
+Flores,Calle 26,12,Viernes,Economica,Media
+Calle 76,Calle 187,10,Martes,Costosa,Media
+Marly,Calle 45,15,Miercoles,Directa,Media
+Alcala,Calle 45,8,Sabado,Costosa,Alta
+Calle 1,Calle 22,10,Lunes,Directa,Baja
+Prado Veraniego,Pepe Sierra,12,Viernes,Economica,Baja
+Calle 26,Calle 187,8,Lunes,Economica,Baja
+Heroes,Prado Veraniego,11,Martes,Costosa,Baja
+Avenida 39,Calle 85,15,Martes,Transitada,Media
+Marly,Calle 85,13,Martes,Directa,Alta
+Calle 100,Cardio Infantil,12,Viernes,Rapida,Alta
+Calle 106,Virrey,12,Miercoles,Economica,Media
+Mazuren,Calle 63,10,Miercoles,Rapida,Media
+Calle 76,Alcala,8,Martes,Transitada,Alta
+Marly,Calle 146,14,Lunes,Transitada,Baja
+Calle 57,Heroes,12,Lunes,Transitada,Baja
+Calle 72,Calle 1,11,Miercoles,Costosa,Alta
+Calle 63,Toberin,10,Jueves,Transitada,Baja
+Toberin,Flores,13,Lunes,Directa,Alta
+Calle 76,Calle 106,13,Jueves,Transitada,Media
+Calle 72,Calle 63,11,Miercoles,Economica,Media
+Alcala,Calle 45,15,Viernes,Directa,Alta
+Avenida 39,Alcala,12,Martes,Transitada,Media
+Calle 85,Calle 142,13,Jueves,Rapida,Alta
+Calle 57,Heroes,12,Lunes,Economica,Alta
+Flores,Calle 106,8,Viernes,Costosa,Baja
+Calle 187,Cardio Infantil,8,Viernes,Transitada,Alta
+Mazuren,Prado Veraniego,10,Martes,Transitada,Baja
+Calle 146,Prado Veraniego,12,Martes,Costosa,Alta
+Calle 63,Cardio Infantil,15,Sabado,Transitada,Media
+Calle 22,Mazuren,8,Jueves,Transitada,Media
+Calle 26,Calle 63,12,Viernes,Directa,Media
+Virrey,Calle 187,14,Miercoles,Transitada,Alta
+Calle 26,Calle 146,12,Sabado,Transitada,Alta
+Alcala,Calle 106,8,Jueves,Rapida,Media
+Calle 45,Calle 85,8,Martes,Economica,Baja
+Calle 63,Calle 142,13,Jueves,Transitada,Media
+Flores,Prado Veraniego,11,Lunes,Rapida,Baja
+Calle 1,Calle 57,13,Viernes,Transitada,Alta
+Profamilia,Calle 106,9,Miercoles,Economica,Media
+Calle 85,Marly,13,Jueves,Directa,Alta
+Heroes,Calle 19,8,Sabado,Costosa,Media
+Calle 146,Calle 63,8,Sabado,Transitada,Alta
+Calle 72,Calle 45,8,Martes,Rapida,Media
+Pepe Sierra,Profamilia,14,Lunes,Transitada,Baja
+Calle 72,Calle 187,11,Miercoles,Directa,Media
+Calle 57,Pepe Sierra,10,Viernes,Transitada,Baja
+Calle 22,Calle 146,11,Martes,Transitada,Alta
+Calle 45,Calle 187,15,Jueves,Costosa,Media
+Alcala,Calle 100,9,Miercoles,Economica,Alta
+Calle 26,Calle 57,13,Sabado,Transitada,Baja
+Calle 100,Heroes,14,Miercoles,Economica,Baja
+Toberin,Marly,11,Martes,Costosa,Media
+Calle 19,Virrey,14,Miercoles,Economica,Baja
+Calle 57,Calle 76,11,Miercoles,Costosa,Baja
+Heroes,Avenida 39,12,Jueves,Economica,Media
+Calle 45,Calle 19,10,Sabado,Transitada,Alta
+Calle 187,Calle 85,14,Viernes,Transitada,Media
+Profamilia,Alcala,12,Jueves,Costosa,Baja
+Marly,Cardio Infantil,9,Viernes,Directa,Alta
+Calle 100,Calle 26,8,Miercoles,Economica,Baja
+Alcala,Avenida 39,11,Jueves,Costosa,Alta
+Avenida 39,Calle 26,12,Lunes,Transitada,Baja
+Calle 100,Cardio Infantil,12,Jueves,Transitada,Baja
+Alcala,Terminal,10,Viernes,Directa,Baja
+Terminal,Profamilia,9,Lunes,Transitada,Baja
+Calle 57,Calle 45,9,Sabado,Directa,Media
+Terminal,Calle 72,12,Jueves,Economica,Media
+Calle 72,Calle 146,14,Miercoles,Economica,Alta
+Alcala,Prado Veraniego,11,Lunes,Costosa,Alta
+Flores,Alcala,9,Lunes,Economica,Alta
+Calle 142,Calle 26,15,Miercoles,Costosa,Media
+Calle 72,Calle 142,13,Miercoles,Transitada,Media
+Heroes,Calle 1,15,Sabado,Economica,Media
+Calle 142,Calle 146,11,Jueves,Transitada,Media
+Cardio Infantil,Toberin,11,Martes,Costosa,Baja
+Mazuren,Terminal,12,Martes,Costosa,Media
+Marly,Prado Veraniego,14,Miercoles,Rapida,Baja
+Calle 187,Calle 19,14,Sabado,Costosa,Media
+Marly,Calle 106,14,Lunes,Costosa,Alta
+Calle 76,Calle 1,15,Jueves,Directa,Media
+Calle 142,Calle 106,10,Lunes,Directa,Media
+Calle 76,Marly,13,Jueves,Rapida,Alta
+Calle 146,Calle 22,10,Miercoles,Economica,Baja
+Flores,Calle 100,15,Miercoles,Economica,Baja
+Calle 100,Calle 19,13,Sabado,Directa,Baja
+Calle 146,Terminal,11,Viernes,Economica,Alta
+Calle 72,Flores,10,Sabado,Directa,Alta
+Calle 187,Calle 146,15,Jueves,Economica,Baja
+Avenida 39,Calle 146,9,Sabado,Transitada,Alta
+Calle 187,Terminal,11,Jueves,Directa,Baja
+Calle 142,Calle 63,8,Viernes,Rapida,Media
+Mazuren,Marly,13,Miercoles,Directa,Media
+Marly,Calle 26,15,Jueves,Costosa,Baja
+Profamilia,Prado Veraniego,11,Martes,Economica,Alta
+Terminal,Alcala,9,Viernes,Economica,Alta
+Marly,Virrey,14,Jueves,Economica,Media
+Avenida 39,Calle 106,10,Miercoles,Economica,Media
+Calle 106,Calle 146,11,Lunes,Directa,Alta
+Calle 85,Calle 100,11,Miercoles,Economica,Baja
+Alcala,Calle 22,10,Viernes,Costosa,Baja
+Calle 85,Calle 1,9,Jueves,Economica,Baja
+Profamilia,Calle 187,11,Jueves,Directa,Alta
+Calle 72,Cardio Infantil,14,Sabado,Directa,Alta
+Terminal,Calle 72,10,Viernes,Costosa,Baja
+Toberin,Calle 19,14,Jueves,Rapida,Media
+Calle 57,Mazuren,8,Sabado,Transitada,Alta
+Calle 72,Calle 63,8,Martes,Directa,Baja
+Calle 19,Calle 187,11,Sabado,Rapida,Alta
+Toberin,Calle 72,15,Lunes,Economica,Media
+Calle 100,Calle 57,9,Martes,Transitada,Media
+Calle 22,Calle 146,13,Lunes,Costosa,Alta
+Calle 45,Avenida 39,10,Martes,Directa,Alta
+Prado Veraniego,Calle 26,13,Martes,Directa,Baja
+Mazuren,Calle 142,11,Viernes,Directa,Media
+Calle 63,Calle 100,12,Sabado,Rapida,Alta
+Calle 76,Calle 100,8,Sabado,Rapida,Baja
+Calle 26,Mazuren,11,Jueves,Costosa,Media
+Calle 22,Calle 100,8,Lunes,Costosa,Media
+Calle 142,Calle 76,8,Martes,Rapida,Baja
+Calle 63,Cardio Infantil,10,Sabado,Economica,Alta
+Calle 146,Calle 26,14,Martes,Rapida,Baja
+Heroes,Avenida 39,8,Sabado,Economica,Baja
+Calle 19,Calle 1,10,Sabado,Costosa,Alta
+Calle 1,Heroes,9,Viernes,Transitada,Media
+Cardio Infantil,Calle 76,9,Lunes,Transitada,Baja
+Calle 142,Calle 85,15,Viernes,Economica,Alta
+Calle 19,Flores,12,Martes,Rapida,Media
+Calle 22,Calle 45,14,Sabado,Costosa,Alta
+Marly,Calle 187,14,Miercoles,Costosa,Baja
+Calle 1,Calle 76,8,Sabado,Directa,Alta
+Virrey,Calle 22,8,Miercoles,Costosa,Media
+Pepe Sierra,Calle 72,8,Viernes,Economica,Media
+Avenida 39,Flores,8,Viernes,Economica,Media
+Calle 146,Calle 19,8,Sabado,Costosa,Baja
+Calle 1,Calle 72,8,Jueves,Economica,Media
+Prado Veraniego,Calle 72,12,Lunes,Costosa,Baja
+Calle 106,Flores,8,Miercoles,Economica,Baja
+Heroes,Mazuren,8,Miercoles,Rapida,Baja
+Calle 1,Calle 100,15,Viernes,Economica,Baja
+Pepe Sierra,Calle 76,13,Jueves,Economica,Baja
+Alcala,Calle 19,15,Sabado,Rapida,Media
+Calle 106,Cardio Infantil,13,Viernes,Directa,Alta
+Marly,Calle 187,12,Lunes,Directa,Baja
+Calle 142,Avenida 39,13,Lunes,Costosa,Media
+Prado Veraniego,Avenida 39,14,Sabado,Rapida,Alta
+Calle 187,Pepe Sierra,8,Lunes,Economica,Baja
+Prado Veraniego,Calle 57,14,Miercoles,Transitada,Baja
+Pepe Sierra,Calle 19,9,Sabado,Economica,Alta
+Cardio Infantil,Flores,13,Viernes,Costosa,Alta
+Alcala,Avenida 39,11,Jueves,Rapida,Media
+Avenida 39,Calle 76,10,Jueves,Rapida,Media
+Alcala,Calle 76,14,Sabado,Transitada,Media
+Prado Veraniego,Calle 76,10,Viernes,Rapida,Alta
+Calle 76,Cardio Infantil,12,Miercoles,Rapida,Baja
+Prado Veraniego,Cardio Infantil,11,Martes,Transitada,Alta
+Marly,Calle 106,15,Lunes,Economica,Alta
+Cardio Infantil,Flores,13,Miercoles,Rapida,Alta
+Calle 142,Avenida 39,8,Lunes,Directa,Media
+Calle 100,Profamilia,12,Lunes,Rapida,Baja
+Marly,Avenida 39,8,Viernes,Directa,Media
+Calle 85,Pepe Sierra,10,Lunes,Transitada,Baja
+Calle 1,Terminal,14,Sabado,Transitada,Baja
+Toberin,Calle 22,13,Lunes,Economica,Media
+Calle 76,Toberin,13,Martes,Rapida,Media
+Toberin,Terminal,10,Jueves,Economica,Media
+Terminal,Calle 187,14,Sabado,Directa,Media
+Alcala,Mazuren,10,Lunes,Transitada,Alta
+Heroes,Calle 106,13,Viernes,Transitada,Media
+Calle 22,Profamilia,8,Martes,Economica,Alta
+Cardio Infantil,Alcala,15,Lunes,Directa,Media
+Calle 85,Calle 22,8,Lunes,Economica,Baja
+Calle 72,Calle 85,11,Sabado,Economica,Media
+Calle 19,Mazuren,8,Miercoles,Costosa,Alta
+Calle 146,Mazuren,15,Jueves,Economica,Alta
+Calle 187,Calle 26,15,Jueves,Transitada,Alta
+Calle 85,Calle 63,14,Lunes,Transitada,Media
+Calle 72,Calle 26,15,Sabado,Directa,Media
+Calle 76,Profamilia,12,Miercoles,Rapida,Alta
+Profamilia,Calle 63,12,Lunes,Transitada,Media
+Calle 146,Alcala,12,Martes,Costosa,Alta
+Calle 76,Calle 22,15,Lunes,Transitada,Media
+Calle 19,Cardio Infantil,8,Miercoles,Transitada,Baja
+Calle 106,Flores,15,Jueves,Directa,Baja
+Calle 106,Calle 63,13,Lunes,Directa,Baja
+Alcala,Calle 187,9,Lunes,Rapida,Media
+Mazuren,Pepe Sierra,9,Viernes,Rapida,Alta
+Calle 146,Calle 57,11,Jueves,Directa,Alta
+Marly,Calle 22,12,Martes,Costosa,Media
+Calle 45,Calle 72,10,Viernes,Transitada,Media
+Calle 45,Calle 22,9,Viernes,Transitada,Alta
+Avenida 39,Prado Veraniego,13,Viernes,Directa,Baja
+Calle 146,Calle 100,10,Lunes,Costosa,Alta
+Cardio Infantil,Calle 63,15,Miercoles,Transitada,Media
+Avenida 39,Calle 63,14,Martes,Directa,Alta
+Cardio Infantil,Calle 72,15,Jueves,Transitada,Baja
+Calle 187,Terminal,11,Jueves,Transitada,Baja
+Calle 142,Calle 45,11,Lunes,Economica,Alta
+Calle 100,Calle 57,13,Lunes,Costosa,Baja
+Calle 146,Cardio Infantil,9,Martes,Costosa,Alta
+Calle 19,Calle 22,10,Jueves,Directa,Media
+Prado Veraniego,Terminal,11,Viernes,Costosa,Baja
+Marly,Avenida 39,15,Martes,Transitada,Alta
+Calle 26,Calle 76,15,Lunes,Rapida,Media
+Calle 57,Calle 22,14,Miercoles,Rapida,Media
+Flores,Avenida 39,12,Sabado,Economica,Media
+Avenida 39,Calle 100,8,Lunes,Directa,Media
+Calle 63,Calle 22,10,Lunes,Rapida,Alta
+Virrey,Calle 22,8,Sabado,Transitada,Baja
+Heroes,Calle 19,10,Sabado,Rapida,Media
+Calle 57,Calle 76,9,Martes,Transitada,Baja
+Flores,Calle 57,8,Sabado,Transitada,Baja
+Terminal,Alcala,12,Sabado,Transitada,Baja
+Marly,Avenida 39,8,Sabado,Economica,Alta
+Heroes,Calle 63,10,Jueves,Costosa,Media
+Marly,Cardio Infantil,13,Martes,Economica,Alta
+Marly,Terminal,8,Miercoles,Rapida,Baja
+Toberin,Calle 63,13,Jueves,Rapida,Alta
+Calle 1,Calle 57,15,Lunes,Transitada,Baja
+Calle 142,Calle 187,8,Miercoles,Economica,Alta
+Calle 1,Calle 100,10,Jueves,Costosa,Alta
+Calle 45,Flores,10,Viernes,Economica,Alta
+Calle 72,Calle 63,9,Sabado,Economica,Media
+Profamilia,Calle 57,9,Lunes,Transitada,Alta
+Virrey,Cardio Infantil,12,Lunes,Rapida,Alta
+Calle 142,Virrey,12,Sabado,Rapida,Media
+Marly,Calle 146,14,Viernes,Rapida,Baja
+Calle 45,Calle 1,11,Miercoles,Economica,Baja
+Calle 72,Calle 146,8,Martes,Transitada,Alta
+Marly,Calle 85,14,Miercoles,Economica,Alta
+Calle 187,Calle 142,10,Sabado,Rapida,Media
+Profamilia,Avenida 39,9,Sabado,Costosa,Alta
+Mazuren,Calle 1,12,Jueves,Costosa,Baja
+Calle 85,Cardio Infantil,12,Martes,Directa,Media
+Virrey,Prado Veraniego,9,Miercoles,Directa,Media
+Calle 146,Calle 142,15,Jueves,Economica,Alta
+Pepe Sierra,Mazuren,14,Martes,Rapida,Media
+Calle 26,Calle 19,14,Lunes,Transitada,Alta
+Calle 45,Calle 63,10,Lunes,Directa,Alta
+Calle 85,Cardio Infantil,9,Sabado,Costosa,Baja
+Calle 63,Avenida 39,11,Sabado,Directa,Media
+Calle 106,Calle 100,10,Miercoles,Costosa,Media
+Calle 76,Calle 100,10,Lunes,Transitada,Baja
+Calle 142,Calle 85,8,Martes,Economica,Baja
+Calle 146,Avenida 39,13,Sabado,Economica,Alta
+Calle 187,Calle 1,13,Viernes,Costosa,Alta
+Alcala,Calle 100,11,Miercoles,Directa,Baja
+Toberin,Calle 146,14,Miercoles,Economica,Media
+Calle 1,Cardio Infantil,11,Viernes,Transitada,Media
+Calle 22,Pepe Sierra,10,Martes,Transitada,Media
+Marly,Prado Veraniego,8,Sabado,Rapida,Alta
+Pepe Sierra,Profamilia,13,Miercoles,Rapida,Baja
+Calle 106,Calle 19,15,Martes,Directa,Baja
+Calle 45,Calle 22,13,Viernes,Economica,Baja
+Calle 45,Alcala,15,Lunes,Costosa,Media
+Calle 142,Calle 19,12,Miercoles,Transitada,Media
+Virrey,Calle 106,11,Miercoles,Directa,Baja
+Prado Veraniego,Calle 142,11,Viernes,Directa,Baja
+Cardio Infantil,Calle 85,14,Martes,Transitada,Alta
+Mazuren,Calle 85,12,Sabado,Costosa,Media
+Toberin,Calle 146,9,Jueves,Rapida,Media
+Calle 76,Flores,8,Martes,Rapida,Media
+Alcala,Calle 187,12,Jueves,Costosa,Baja
+Calle 19,Calle 106,10,Jueves,Economica,Baja
+Calle 146,Calle 45,10,Sabado,Economica,Alta
+Alcala,Calle 85,9,Martes,Economica,Alta
+Terminal,Calle 1,13,Sabado,Costosa,Baja
+Marly,Profamilia,14,Viernes,Economica,Media
+Calle 19,Terminal,15,Martes,Rapida,Baja
+Cardio Infantil,Marly,14,Viernes,Costosa,Alta
+Calle 187,Calle 57,12,Martes,Directa,Alta
+Calle 187,Terminal,8,Sabado,Economica,Alta
+Pepe Sierra,Calle 45,9,Miercoles,Transitada,Media
+Calle 146,Virrey,9,Lunes,Economica,Media
+Mazuren,Calle 187,9,Lunes,Costosa,Media
+Terminal,Cardio Infantil,13,Viernes,Economica,Baja
+Alcala,Calle 142,9,Miercoles,Rapida,Alta
+Calle 106,Toberin,11,Lunes,Economica,Media
+Calle 26,Calle 76,13,Sabado,Economica,Media
+Avenida 39,Calle 57,9,Sabado,Transitada,Alta
+Cardio Infantil,Calle 85,14,Sabado,Economica,Baja
+Avenida 39,Calle 1,15,Martes,Transitada,Alta
+Calle 106,Calle 22,12,Sabado,Economica,Baja
+Calle 63,Mazuren,9,Miercoles,Economica,Media
+Calle 142,Virrey,14,Sabado,Costosa,Alta
+Calle 26,Calle 146,12,Viernes,Costosa,Media
+Calle 63,Calle 19,12,Lunes,Economica,Baja
+Calle 100,Calle 187,11,Martes,Transitada,Media
+Calle 106,Profamilia,12,Viernes,Directa,Baja
+Heroes,Calle 76,10,Miercoles,Rapida,Baja
+Prado Veraniego,Calle 106,8,Miercoles,Rapida,Media
+Calle 76,Calle 63,14,Martes,Transitada,Baja
+Calle 22,Calle 45,11,Miercoles,Economica,Alta
+Calle 19,Toberin,13,Viernes,Costosa,Baja
+Calle 146,Prado Veraniego,10,Sabado,Economica,Alta
+Virrey,Calle 26,14,Sabado,Costosa,Baja
+Calle 63,Alcala,8,Martes,Directa,Baja
+Calle 146,Calle 85,8,Miercoles,Economica,Baja
+Cardio Infantil,Calle 45,9,Sabado,Transitada,Alta
+Flores,Calle 142,10,Lunes,Directa,Alta
+Mazuren,Prado Veraniego,13,Viernes,Directa,Media
+Calle 76,Terminal,8,Miercoles,Economica,Baja
+Calle 76,Alcala,12,Miercoles,Transitada,Alta
+Heroes,Calle 85,14,Viernes,Directa,Alta
+Profamilia,Calle 72,14,Miercoles,Transitada,Baja
+Prado Veraniego,Calle 146,9,Martes,Costosa,Baja
+Calle 85,Calle 57,15,Sabado,Directa,Baja
+Marly,Prado Veraniego,14,Lunes,Costosa,Baja
+Toberin,Calle 76,10,Lunes,Rapida,Media
+Calle 63,Calle 72,9,Miercoles,Economica,Media
+Prado Veraniego,Calle 106,12,Jueves,Transitada,Alta
+Calle 45,Toberin,10,Viernes,Transitada,Baja
+Calle 19,Alcala,8,Martes,Rapida,Baja
+Prado Veraniego,Calle 100,15,Martes,Costosa,Baja
+Calle 187,Calle 22,8,Jueves,Rapida,Alta
+Calle 57,Terminal,8,Martes,Transitada,Alta
+Calle 187,Calle 142,12,Miercoles,Costosa,Baja
+Flores,Virrey,15,Jueves,Costosa,Alta
+Calle 22,Calle 106,9,Viernes,Costosa,Baja
+Calle 146,Prado Veraniego,8,Miercoles,Rapida,Alta
+Calle 1,Calle 146,12,Sabado,Transitada,Baja
+Calle 106,Calle 26,9,Miercoles,Transitada,Baja
+Terminal,Profamilia,15,Lunes,Transitada,Baja
+Calle 26,Calle 100,13,Martes,Economica,Alta
+Calle 26,Toberin,10,Miercoles,Transitada,Alta
+Calle 45,Calle 146,11,Lunes,Directa,Media
+Calle 72,Virrey,11,Lunes,Economica,Media
+Alcala,Heroes,13,Sabado,Transitada,Media
+Mazuren,Toberin,13,Viernes,Economica,Media
+Calle 1,Calle 72,8,Viernes,Costosa,Baja
+Calle 100,Mazuren,9,Jueves,Costosa,Baja
+Toberin,Calle 76,10,Viernes,Economica,Baja
+Calle 85,Calle 100,8,Viernes,Rapida,Baja
+Calle 187,Prado Veraniego,9,Jueves,Costosa,Media
+Pepe Sierra,Calle 142,9,Jueves,Economica,Baja
+Calle 19,Calle 26,14,Miercoles,Directa,Alta
+Prado Veraniego,Calle 142,12,Viernes,Directa,Baja
+Cardio Infantil,Mazuren,14,Martes,Directa,Baja
+Avenida 39,Calle 142,14,Miercoles,Costosa,Alta
+Alcala,Calle 57,9,Jueves,Economica,Alta
+Flores,Calle 146,13,Miercoles,Transitada,Media
+Calle 1,Calle 187,11,Sabado,Costosa,Media
+Calle 146,Calle 100,15,Jueves,Economica,Baja
+Calle 63,Calle 22,10,Lunes,Rapida,Baja
+Calle 26,Toberin,9,Lunes,Costosa,Media
+Calle 26,Prado Veraniego,12,Sabado,Costosa,Alta
+Calle 187,Calle 22,12,Miercoles,Rapida,Alta
+Calle 76,Pepe Sierra,11,Lunes,Directa,Alta
+Virrey,Calle 57,8,Lunes,Costosa,Alta
+Calle 1,Calle 146,15,Jueves,Transitada,Baja
+Calle 85,Mazuren,8,Martes,Directa,Media
+Calle 106,Heroes,9,Sabado,Economica,Media
+Calle 26,Marly,15,Miercoles,Directa,Alta
+Calle 26,Calle 22,10,Martes,Rapida,Media
+Pepe Sierra,Calle 85,10,Sabado,Costosa,Media
+Calle 57,Terminal,15,Jueves,Costosa,Alta
+Terminal,Avenida 39,14,Viernes,Economica,Alta
+Calle 100,Toberin,14,Lunes,Economica,Baja
+Calle 100,Calle 72,11,Miercoles,Economica,Baja
+Calle 106,Cardio Infantil,12,Sabado,Rapida,Alta
+Heroes,Calle 57,8,Jueves,Economica,Baja
+Calle 100,Calle 26,9,Lunes,Transitada,Media
+Virrey,Toberin,11,Miercoles,Directa,Alta
+Terminal,Avenida 39,13,Miercoles,Costosa,Baja
+Mazuren,Flores,8,Miercoles,Rapida,Alta
+Pepe Sierra,Flores,13,Martes,Costosa,Baja
+Pepe Sierra,Calle 22,8,Martes,Rapida,Media
+Marly,Calle 106,12,Miercoles,Directa,Alta
+Calle 85,Calle 146,10,Martes,Costosa,Baja
+Calle 19,Calle 72,9,Sabado,Economica,Media
+Calle 26,Calle 19,13,Martes,Economica,Alta
+Virrey,Prado Veraniego,15,Sabado,Rapida,Alta
+Calle 72,Marly,8,Jueves,Transitada,Media
+Toberin,Marly,9,Sabado,Economica,Baja
+Calle 22,Heroes,9,Martes,Economica,Baja
+Toberin,Flores,13,Miercoles,Costosa,Media
+Calle 26,Calle 45,8,Martes,Economica,Baja
+Mazuren,Pepe Sierra,11,Martes,Rapida,Baja
+Calle 1,Calle 76,15,Viernes,Directa,Alta
+Avenida 39,Calle 26,10,Viernes,Economica,Alta
+Calle 76,Terminal,14,Viernes,Economica,Baja
+Avenida 39,Cardio Infantil,12,Viernes,Costosa,Baja
+Calle 100,Marly,13,Viernes,Economica,Baja
+Calle 22,Pepe Sierra,14,Viernes,Directa,Media
+Toberin,Calle 187,10,Lunes,Costosa,Baja
+Calle 146,Calle 76,15,Lunes,Transitada,Alta
+Calle 100,Toberin,11,Sabado,Directa,Baja
+Calle 1,Calle 63,13,Viernes,Transitada,Baja
+Alcala,Calle 57,10,Sabado,Costosa,Alta
+Cardio Infantil,Pepe Sierra,14,Martes,Directa,Alta
+Avenida 39,Calle 85,12,Jueves,Directa,Media
+Mazuren,Pepe Sierra,11,Jueves,Transitada,Alta
+Calle 72,Prado Veraniego,12,Martes,Transitada,Alta
+Calle 85,Calle 100,11,Sabado,Economica,Media
+Calle 146,Marly,15,Lunes,Costosa,Alta
+Alcala,Calle 146,10,Miercoles,Transitada,Media
+Toberin,Virrey,9,Martes,Costosa,Media
+Calle 19,Calle 57,13,Sabado,Rapida,Alta
+Calle 22,Calle 106,12,Jueves,Transitada,Baja
+Mazuren,Calle 1,11,Sabado,Rapida,Alta
+Toberin,Calle 100,8,Jueves,Rapida,Baja
+Calle 19,Calle 100,10,Sabado,Directa,Baja
+Calle 57,Avenida 39,8,Miercoles,Directa,Media
+Calle 1,Calle 57,9,Martes,Rapida,Alta
+Profamilia,Terminal,14,Sabado,Directa,Media
+Pepe Sierra,Calle 106,15,Lunes,Costosa,Media
+Calle 187,Calle 1,9,Sabado,Rapida,Baja
+Cardio Infantil,Calle 19,12,Sabado,Transitada,Baja
+Calle 100,Toberin,12,Lunes,Rapida,Media
+Marly,Calle 1,8,Lunes,Transitada,Baja
+Calle 45,Calle 187,8,Jueves,Rapida,Alta
+Calle 146,Calle 100,12,Viernes,Rapida,Media
+Calle 142,Flores,13,Jueves,Transitada,Baja
+Heroes,Marly,13,Lunes,Rapida,Alta
+Calle 72,Toberin,8,Lunes,Rapida,Baja
+Calle 85,Marly,13,Miercoles,Costosa,Media
+Calle 72,Heroes,12,Martes,Rapida,Media
+Mazuren,Calle 142,13,Martes,Costosa,Baja
+Virrey,Calle 63,14,Jueves,Transitada,Media
+Pepe Sierra,Flores,13,Sabado,Rapida,Media
+Flores,Heroes,10,Jueves,Costosa,Alta
+Prado Veraniego,Calle 57,9,Jueves,Directa,Media
+Heroes,Calle 106,12,Miercoles,Costosa,Alta
+Calle 85,Pepe Sierra,8,Martes,Economica,Baja
+Calle 45,Calle 57,9,Lunes,Costosa,Baja
+Flores,Heroes,14,Martes,Economica,Alta
+Calle 187,Calle 72,13,Martes,Transitada,Alta
+Calle 142,Avenida 39,12,Viernes,Directa,Baja
+Avenida 39,Prado Veraniego,11,Sabado,Directa,Media
+Terminal,Calle 85,8,Sabado,Directa,Alta
+Prado Veraniego,Calle 57,13,Sabado,Rapida,Alta
+Calle 1,Calle 72,13,Sabado,Rapida,Alta
+Calle 1,Profamilia,13,Viernes,Directa,Alta
+Calle 187,Calle 22,13,Martes,Economica,Baja
+Avenida 39,Pepe Sierra,9,Sabado,Economica,Alta
+Calle 26,Calle 72,11,Miercoles,Transitada,Baja
+Calle 85,Calle 1,11,Sabado,Costosa,Baja
+Calle 26,Calle 146,13,Lunes,Costosa,Baja
+Calle 22,Calle 142,9,Sabado,Rapida,Media
+Avenida 39,Calle 187,12,Viernes,Directa,Media
+Toberin,Calle 1,10,Jueves,Rapida,Media
+Terminal,Calle 19,9,Jueves,Transitada,Baja
+Calle 72,Mazuren,8,Martes,Economica,Baja
+Calle 106,Profamilia,15,Sabado,Transitada,Baja
+Alcala,Calle 72,10,Miercoles,Rapida,Baja
+Calle 63,Avenida 39,11,Viernes,Economica,Alta
+Calle 72,Mazuren,10,Jueves,Directa,Baja
+Calle 76,Calle 106,13,Lunes,Costosa,Alta
+Calle 26,Calle 63,11,Jueves,Transitada,Media
+Calle 26,Prado Veraniego,10,Martes,Directa,Alta
+Calle 57,Flores,13,Jueves,Directa,Alta
+Avenida 39,Calle 142,10,Miercoles,Transitada,Media
+Calle 45,Calle 146,15,Viernes,Directa,Alta
+Calle 100,Cardio Infantil,8,Martes,Rapida,Alta
+Pepe Sierra,Heroes,12,Viernes,Economica,Baja
+Calle 106,Calle 142,9,Jueves,Transitada,Baja
+Prado Veraniego,Calle 57,8,Viernes,Rapida,Alta
+Profamilia,Heroes,8,Sabado,Transitada,Baja
+Calle 146,Alcala,9,Miercoles,Transitada,Alta
+Avenida 39,Profamilia,8,Lunes,Directa,Media
+Calle 85,Calle 146,11,Martes,Rapida,Media
+Mazuren,Terminal,9,Jueves,Costosa,Alta
+Marly,Calle 19,11,Jueves,Rapida,Media
+Cardio Infantil,Pepe Sierra,8,Miercoles,Transitada,Baja
+Calle 63,Profamilia,14,Martes,Transitada,Baja
+Calle 63,Avenida 39,10,Jueves,Directa,Baja
+Calle 85,Calle 63,15,Lunes,Rapida,Baja
+Calle 146,Flores,15,Sabado,Costosa,Alta
+Calle 85,Heroes,12,Sabado,Directa,Alta
+Mazuren,Cardio Infantil,12,Lunes,Directa,Alta
+Calle 146,Calle 85,12,Martes,Directa,Alta
+Calle 45,Calle 106,12,Sabado,Directa,Baja
+Calle 26,Virrey,13,Miercoles,Economica,Baja
+Calle 57,Prado Veraniego,12,Viernes,Rapida,Media
+Prado Veraniego,Avenida 39,15,Martes,Economica,Media
+Flores,Avenida 39,9,Martes,Directa,Media
+Avenida 39,Flores,11,Viernes,Rapida,Alta
+Marly,Prado Veraniego,8,Lunes,Economica,Baja
+Calle 63,Calle 100,13,Sabado,Directa,Media
+Pepe Sierra,Calle 187,13,Lunes,Costosa,Baja
+Marly,Calle 57,10,Miercoles,Rapida,Media
+Calle 22,Calle 142,14,Viernes,Rapida,Baja
+Toberin,Avenida 39,8,Martes,Costosa,Media
+Pepe Sierra,Calle 63,11,Sabado,Costosa,Alta
+Calle 45,Calle 187,11,Jueves,Directa,Alta
+Calle 146,Calle 26,11,Sabado,Transitada,Media
+Calle 142,Calle 26,12,Viernes,Transitada,Media
+Calle 1,Calle 57,9,Viernes,Transitada,Media
+Pepe Sierra,Calle 187,15,Jueves,Economica,Alta
+Cardio Infantil,Calle 63,12,Jueves,Rapida,Media
+Calle 187,Virrey,9,Sabado,Rapida,Baja
+Calle 22,Calle 187,11,Miercoles,Transitada,Alta
+Heroes,Calle 1,13,Sabado,Rapida,Baja
+Calle 26,Flores,10,Miercoles,Economica,Baja
+Calle 57,Calle 63,14,Martes,Costosa,Alta
+Calle 22,Calle 106,8,Jueves,Costosa,Media
+Calle 26,Terminal,11,Viernes,Transitada,Alta
+Calle 146,Terminal,10,Sabado,Transitada,Baja
+Calle 142,Virrey,12,Jueves,Directa,Alta
+Cardio Infantil,Calle 19,10,Jueves,Directa,Media
+Pepe Sierra,Calle 187,14,Martes,Economica,Baja
+Profamilia,Calle 106,12,Miercoles,Transitada,Alta
+Calle 85,Calle 72,11,Miercoles,Costosa,Media
+Calle 1,Calle 19,15,Martes,Transitada,Media
+Toberin,Prado Veraniego,9,Viernes,Directa,Media
+Calle 19,Calle 72,13,Lunes,Transitada,Baja
+Avenida 39,Calle 63,8,Sabado,Directa,Media
+Avenida 39,Marly,14,Viernes,Directa,Baja
+Heroes,Calle 146,12,Jueves,Costosa,Baja
+Mazuren,Flores,14,Lunes,Economica,Alta
+Calle 57,Calle 85,12,Sabado,Economica,Alta
+Calle 26,Virrey,10,Sabado,Economica,Alta
+Calle 63,Calle 19,9,Miercoles,Rapida,Alta
+Pepe Sierra,Terminal,8,Lunes,Directa,Alta
+Calle 22,Calle 26,9,Martes,Economica,Alta
+Cardio Infantil,Profamilia,11,Jueves,Costosa,Baja
+Calle 57,Profamilia,9,Miercoles,Rapida,Baja
+Calle 100,Calle 146,9,Jueves,Transitada,Media
+Mazuren,Calle 76,14,Miercoles,Economica,Media
+Prado Veraniego,Avenida 39,12,Viernes,Economica,Alta
+Calle 26,Calle 76,14,Lunes,Economica,Baja
+Marly,Calle 142,14,Sabado,Economica,Media
+Calle 57,Terminal,13,Lunes,Directa,Alta
+Heroes,Flores,13,Sabado,Rapida,Baja
+Mazuren,Flores,15,Lunes,Transitada,Alta
+Calle 85,Calle 19,14,Jueves,Rapida,Alta
+Calle 146,Calle 76,11,Miercoles,Directa,Media
+Avenida 39,Calle 106,12,Miercoles,Transitada,Media
+Alcala,Calle 187,14,Miercoles,Transitada,Alta
+Calle 142,Virrey,10,Martes,Transitada,Baja
+Calle 1,Pepe Sierra,13,Sabado,Directa,Baja
+Mazuren,Pepe Sierra,14,Miercoles,Transitada,Media
+Calle 72,Toberin,12,Martes,Directa,Media
+Calle 187,Calle 85,14,Miercoles,Directa,Baja
+Avenida 39,Toberin,10,Viernes,Transitada,Media
+Calle 22,Calle 85,9,Martes,Transitada,Alta
+Calle 146,Avenida 39,9,Miercoles,Directa,Baja
+Calle 72,Calle 57,11,Jueves,Rapida,Baja
+Alcala,Calle 26,15,Viernes,Directa,Media
+Calle 1,Calle 106,15,Martes,Rapida,Alta
+Prado Veraniego,Profamilia,12,Lunes,Transitada,Alta
+Marly,Calle 26,11,Sabado,Transitada,Media
+Mazuren,Flores,11,Jueves,Rapida,Baja
+Calle 45,Flores,14,Viernes,Rapida,Media
+Cardio Infantil,Flores,9,Jueves,Costosa,Baja
+Calle 45,Marly,9,Sabado,Rapida,Media
+Calle 187,Calle 19,9,Sabado,Costosa,Alta
+Cardio Infantil,Prado Veraniego,10,Miercoles,Transitada,Alta
+Toberin,Avenida 39,13,Jueves,Rapida,Alta
+Calle 146,Heroes,10,Martes,Economica,Alta
+Toberin,Calle 19,8,Miercoles,Costosa,Media
+Pepe Sierra,Calle 57,11,Miercoles,Costosa,Baja
+Virrey,Marly,14,Miercoles,Transitada,Media
+Alcala,Toberin,8,Miercoles,Transitada,Alta
+Flores,Mazuren,11,Viernes,Economica,Media
+Calle 45,Calle 1,10,Sabado,Directa,Baja
+Profamilia,Calle 106,10,Sabado,Directa,Baja
+Calle 146,Calle 19,14,Sabado,Economica,Media
+Terminal,Virrey,11,Martes,Costosa,Media
+Avenida 39,Cardio Infantil,10,Sabado,Directa,Media
+Virrey,Terminal,9,Martes,Transitada,Media
+Profamilia,Calle 85,13,Sabado,Costosa,Alta
+Calle 146,Calle 26,13,Martes,Directa,Baja
+Calle 57,Calle 100,9,Sabado,Economica,Baja
+Calle 106,Alcala,8,Jueves,Costosa,Alta
+Profamilia,Calle 45,13,Miercoles,Costosa,Alta
+Calle 22,Calle 19,14,Miercoles,Rapida,Baja
+Calle 45,Virrey,9,Sabado,Rapida,Alta
+Calle 76,Calle 100,11,Viernes,Costosa,Alta
+Flores,Heroes,9,Miercoles,Costosa,Alta
+Calle 1,Calle 45,10,Viernes,Economica,Baja
+Heroes,Calle 45,10,Jueves,Economica,Media
+Calle 26,Calle 142,15,Viernes,Directa,Alta
+Calle 19,Toberin,14,Viernes,Costosa,Alta
+Terminal,Heroes,13,Miercoles,Directa,Baja
+Calle 26,Flores,9,Miercoles,Costosa,Alta
+Calle 187,Calle 45,11,Viernes,Transitada,Alta
+Avenida 39,Calle 1,10,Viernes,Transitada,Baja
+Avenida 39,Calle 187,15,Jueves,Economica,Alta
+Calle 26,Calle 76,8,Jueves,Costosa,Baja
+Calle 85,Calle 63,12,Lunes,Directa,Baja
+Calle 1,Calle 63,15,Lunes,Economica,Baja
+Virrey,Calle 45,13,Jueves,Economica,Media
+Heroes,Avenida 39,10,Sabado,Rapida,Alta
+Flores,Calle 45,15,Sabado,Directa,Media
+Calle 26,Calle 45,11,Lunes,Directa,Baja
+Virrey,Prado Veraniego,14,Miercoles,Transitada,Baja
+Calle 1,Calle 72,9,Sabado,Transitada,Alta
+Calle 100,Calle 106,10,Sabado,Directa,Alta
+Calle 26,Calle 106,8,Jueves,Economica,Alta
+Calle 72,Heroes,8,Jueves,Transitada,Baja
+Alcala,Pepe Sierra,14,Jueves,Transitada,Alta
+Calle 76,Calle 63,9,Martes,Directa,Media
+Alcala,Profamilia,14,Martes,Costosa,Alta
+Calle 142,Calle 76,15,Viernes,Directa,Media
+Calle 187,Calle 76,12,Jueves,Costosa,Alta
+Toberin,Flores,14,Viernes,Costosa,Baja
+Calle 19,Calle 57,13,Jueves,Directa,Alta
+Terminal,Calle 26,9,Jueves,Transitada,Baja
+Virrey,Terminal,13,Lunes,Rapida,Media
+Calle 100,Mazuren,11,Lunes,Directa,Media
+Terminal,Calle 85,9,Jueves,Economica,Baja
+Calle 106,Calle 85,9,Lunes,Rapida,Alta
+Calle 100,Calle 76,14,Miercoles,Directa,Baja
+Calle 63,Virrey,15,Jueves,Rapida,Baja
+Avenida 39,Calle 63,13,Viernes,Economica,Baja
+Calle 100,Toberin,9,Lunes,Directa,Baja
+Calle 100,Marly,15,Miercoles,Directa,Alta
+Virrey,Calle 72,13,Sabado,Economica,Baja
+Mazuren,Calle 100,12,Martes,Directa,Alta
+Mazuren,Calle 57,14,Martes,Costosa,Media
+Calle 63,Cardio Infantil,14,Viernes,Rapida,Media
+Calle 19,Calle 22,10,Sabado,Costosa,Media
+Calle 26,Alcala,8,Martes,Directa,Alta
+Calle 146,Virrey,13,Lunes,Transitada,Baja
+Terminal,Calle 19,13,Miercoles,Transitada,Baja
+Profamilia,Mazuren,10,Martes,Costosa,Baja
+Toberin,Calle 106,14,Miercoles,Economica,Baja
+Calle 100,Avenida 39,12,Lunes,Rapida,Baja
+Calle 22,Cardio Infantil,13,Lunes,Directa,Media
+Terminal,Calle 22,10,Miercoles,Costosa,Baja
+Calle 106,Calle 22,9,Sabado,Costosa,Alta
+Avenida 39,Calle 26,8,Viernes,Transitada,Media
+Calle 85,Calle 22,9,Sabado,Costosa,Baja
+Marly,Flores,12,Viernes,Rapida,Baja
+Heroes,Avenida 39,15,Miercoles,Costosa,Media
+Profamilia,Calle 146,10,Lunes,Directa,Baja
+Calle 26,Mazuren,14,Jueves,Economica,Baja
+Avenida 39,Cardio Infantil,10,Jueves,Costosa,Alta
+Terminal,Mazuren,9,Miercoles,Directa,Alta
+Calle 26,Prado Veraniego,9,Viernes,Transitada,Media
+Calle 22,Toberin,9,Miercoles,Transitada,Media
+Calle 57,Toberin,10,Martes,Rapida,Alta
+Calle 187,Alcala,9,Lunes,Rapida,Alta
+Calle 22,Calle 57,12,Lunes,Directa,Alta
+Heroes,Calle 63,14,Jueves,Economica,Baja
+Calle 45,Mazuren,9,Sabado,Directa,Media
+Calle 57,Calle 100,12,Sabado,Economica,Media
+Calle 187,Calle 63,8,Lunes,Economica,Baja
+Pepe Sierra,Avenida 39,12,Viernes,Transitada,Media
+Profamilia,Toberin,8,Sabado,Transitada,Alta
+Pepe Sierra,Calle 76,15,Martes,Transitada,Media
+Calle 106,Prado Veraniego,8,Viernes,Transitada,Alta
+Flores,Calle 45,13,Lunes,Costosa,Baja
+Cardio Infantil,Calle 45,8,Viernes,Rapida,Media
+Profamilia,Calle 142,13,Sabado,Directa,Alta
+Cardio Infantil,Calle 63,9,Jueves,Directa,Baja
+Calle 146,Calle 187,12,Martes,Directa,Baja
+Profamilia,Avenida 39,12,Viernes,Economica,Media
+Virrey,Marly,14,Martes,Transitada,Alta
+Prado Veraniego,Avenida 39,8,Sabado,Economica,Media
+Flores,Alcala,8,Sabado,Economica,Media
+Mazuren,Calle 100,15,Miercoles,Costosa,Baja
+Calle 1,Calle 19,12,Lunes,Directa,Media
+Calle 63,Calle 72,15,Lunes,Transitada,Baja
+Pepe Sierra,Calle 63,15,Jueves,Economica,Alta
+Calle 63,Calle 106,12,Miercoles,Rapida,Baja
+Flores,Profamilia,8,Jueves,Economica,Alta
+Marly,Calle 106,8,Lunes,Rapida,Alta
+Toberin,Profamilia,11,Martes,Rapida,Alta
+Mazuren,Calle 72,13,Martes,Directa,Media
+Terminal,Avenida 39,15,Lunes,Economica,Baja
+Calle 85,Calle 63,12,Sabado,Costosa,Alta
+Profamilia,Calle 187,12,Jueves,Directa,Baja
+Calle 19,Calle 142,13,Sabado,Directa,Baja
+Calle 72,Flores,14,Lunes,Rapida,Alta
+Calle 142,Avenida 39,8,Lunes,Costosa,Media
+Calle 85,Calle 146,9,Martes,Economica,Alta
+Calle 106,Calle 100,15,Viernes,Rapida,Media
+Calle 146,Heroes,11,Miercoles,Rapida,Baja
+Calle 187,Pepe Sierra,13,Martes,Costosa,Baja
+Flores,Cardio Infantil,9,Lunes,Directa,Baja
+Terminal,Toberin,11,Martes,Directa,Media
+Virrey,Toberin,9,Viernes,Costosa,Baja
+Calle 106,Calle 22,11,Jueves,Directa,Media
+Calle 57,Profamilia,15,Sabado,Directa,Media
+Terminal,Marly,8,Martes,Transitada,Baja
+Virrey,Flores,14,Viernes,Economica,Baja
+Virrey,Calle 19,10,Miercoles,Directa,Baja
+Calle 106,Calle 72,15,Jueves,Rapida,Media
+Virrey,Calle 85,11,Lunes,Rapida,Baja
+Calle 76,Calle 1,10,Martes,Transitada,Media
+Calle 63,Calle 22,9,Jueves,Transitada,Alta
+Calle 85,Calle 57,12,Viernes,Directa,Baja
+Calle 187,Heroes,14,Jueves,Transitada,Baja
+Calle 106,Virrey,9,Sabado,Directa,Media
+Calle 22,Calle 106,8,Miercoles,Economica,Media
+Calle 63,Avenida 39,13,Lunes,Economica,Baja
+Toberin,Avenida 39,12,Miercoles,Costosa,Baja
+Calle 187,Mazuren,15,Viernes,Economica,Alta
+Alcala,Calle 1,10,Viernes,Transitada,Media
+Calle 146,Terminal,15,Lunes,Directa,Media
+Calle 146,Calle 72,8,Jueves,Rapida,Media
+Flores,Heroes,11,Miercoles,Costosa,Baja
+Flores,Calle 22,11,Jueves,Costosa,Baja
+Calle 142,Calle 146,8,Sabado,Costosa,Alta
+Mazuren,Calle 146,9,Jueves,Rapida,Media
+Calle 100,Cardio Infantil,9,Miercoles,Costosa,Media
+Terminal,Toberin,10,Viernes,Directa,Baja
+Calle 146,Cardio Infantil,9,Sabado,Economica,Alta
+Calle 106,Alcala,15,Lunes,Economica,Media
+Calle 63,Virrey,9,Jueves,Costosa,Alta
+Alcala,Cardio Infantil,8,Martes,Costosa,Media
+Pepe Sierra,Avenida 39,9,Lunes,Rapida,Baja
+Calle 72,Alcala,11,Jueves,Economica,Baja
+Calle 22,Heroes,12,Martes,Directa,Baja
+Profamilia,Calle 187,9,Sabado,Transitada,Baja
+Marly,Cardio Infantil,12,Jueves,Directa,Baja
+Flores,Calle 106,10,Miercoles,Rapida,Baja
+Calle 106,Marly,13,Viernes,Costosa,Baja
+Avenida 39,Calle 85,8,Miercoles,Transitada,Baja
+Calle 76,Prado Veraniego,10,Lunes,Economica,Alta
+Marly,Calle 19,13,Lunes,Rapida,Baja
+Calle 146,Pepe Sierra,15,Martes,Economica,Media
+Calle 57,Calle 22,9,Jueves,Costosa,Alta
+Avenida 39,Virrey,13,Sabado,Transitada,Alta
+Avenida 39,Calle 142,8,Miercoles,Economica,Baja
+Profamilia,Alcala,13,Miercoles,Costosa,Media
+Cardio Infantil,Calle 22,15,Jueves,Transitada,Alta
+Calle 187,Calle 72,9,Viernes,Rapida,Baja
+Alcala,Calle 106,11,Martes,Costosa,Baja
+Pepe Sierra,Calle 22,13,Viernes,Directa,Media
+Calle 22,Alcala,13,Martes,Economica,Baja
+Calle 100,Calle 26,10,Sabado,Costosa,Alta
+Calle 63,Terminal,12,Sabado,Directa,Alta
+Calle 76,Calle 72,13,Jueves,Costosa,Media
+Mazuren,Alcala,15,Viernes,Directa,Baja
+Toberin,Profamilia,12,Sabado,Transitada,Media
+Cardio Infantil,Calle 45,12,Miercoles,Rapida,Baja
+Alcala,Calle 106,11,Martes,Rapida,Media
+Calle 19,Calle 187,15,Lunes,Rapida,Media
+Calle 26,Cardio Infantil,15,Viernes,Costosa,Media
+Calle 57,Calle 85,9,Sabado,Economica,Media
+Calle 72,Calle 142,12,Jueves,Rapida,Baja
+Profamilia,Calle 100,8,Sabado,Costosa,Baja
+Profamilia,Calle 63,13,Lunes,Rapida,Media
+Mazuren,Prado Veraniego,15,Miercoles,Costosa,Baja
+Profamilia,Pepe Sierra,12,Lunes,Directa,Baja
+Marly,Mazuren,10,Miercoles,Directa,Baja
+Avenida 39,Prado Veraniego,14,Martes,Rapida,Media
+Marly,Avenida 39,14,Miercoles,Directa,Alta
+Calle 85,Flores,12,Lunes,Rapida,Alta
+Flores,Profamilia,9,Miercoles,Rapida,Alta
+Cardio Infantil,Heroes,9,Martes,Economica,Baja
+Calle 187,Calle 106,14,Lunes,Costosa,Alta
+Calle 72,Calle 146,8,Lunes,Rapida,Media
+Heroes,Calle 45,10,Sabado,Rapida,Baja
+Calle 1,Avenida 39,14,Miercoles,Economica,Media
+Heroes,Calle 57,11,Jueves,Economica,Baja
+Alcala,Terminal,8,Lunes,Rapida,Baja
+Calle 85,Terminal,8,Viernes,Directa,Baja
+Flores,Calle 76,8,Sabado,Rapida,Media
+Alcala,Calle 45,9,Miercoles,Rapida,Baja
+Mazuren,Calle 45,9,Viernes,Transitada,Alta
+Calle 76,Heroes,9,Miercoles,Economica,Baja
+Flores,Toberin,15,Viernes,Directa,Alta
+Calle 19,Calle 26,10,Sabado,Transitada,Baja
+Pepe Sierra,Alcala,13,Viernes,Costosa,Baja
+Calle 72,Calle 22,8,Jueves,Directa,Alta
+Cardio Infantil,Toberin,15,Miercoles,Costosa,Baja
+Mazuren,Calle 187,12,Jueves,Rapida,Media
+Cardio Infantil,Calle 142,15,Sabado,Economica,Alta
+Calle 22,Calle 106,15,Viernes,Transitada,Media
+Calle 26,Marly,9,Jueves,Directa,Baja
+Calle 1,Heroes,13,Sabado,Transitada,Alta
+Calle 45,Heroes,8,Lunes,Costosa,Media
+Calle 19,Terminal,14,Jueves,Transitada,Media
+Mazuren,Cardio Infantil,9,Martes,Transitada,Alta
+Calle 106,Prado Veraniego,14,Martes,Rapida,Alta
+Calle 100,Terminal,12,Miercoles,Directa,Baja
+Calle 63,Profamilia,14,Jueves,Transitada,Media
+Profamilia,Flores,13,Sabado,Economica,Baja
+Calle 63,Flores,9,Martes,Directa,Alta
+Pepe Sierra,Calle 76,13,Sabado,Directa,Alta
+Calle 26,Calle 72,10,Viernes,Transitada,Baja
+Calle 19,Mazuren,15,Miercoles,Rapida,Baja
+Alcala,Calle 146,8,Viernes,Economica,Media
+Calle 76,Calle 22,9,Lunes,Directa,Alta
+Calle 19,Alcala,14,Miercoles,Rapida,Alta
+Toberin,Calle 22,14,Martes,Economica,Media
+Calle 142,Flores,10,Sabado,Rapida,Media
+Profamilia,Pepe Sierra,10,Martes,Rapida,Alta
+Calle 72,Marly,13,Miercoles,Rapida,Alta
+Calle 142,Calle 63,9,Martes,Transitada,Media
+Calle 45,Calle 146,11,Lunes,Transitada,Media
+Flores,Calle 142,10,Miercoles,Economica,Alta
+Flores,Calle 1,8,Lunes,Rapida,Media
+Calle 106,Calle 142,11,Lunes,Costosa,Alta
+Heroes,Toberin,12,Viernes,Economica,Alta
+Calle 142,Calle 22,14,Miercoles,Economica,Alta
+Calle 19,Calle 57,13,Martes,Transitada,Alta
+Calle 22,Prado Veraniego,13,Sabado,Directa,Baja
+Prado Veraniego,Calle 142,13,Viernes,Economica,Media
+Calle 1,Mazuren,8,Jueves,Directa,Media
+Prado Veraniego,Calle 76,8,Sabado,Directa,Baja
+Alcala,Virrey,14,Martes,Costosa,Media
+Calle 26,Mazuren,11,Sabado,Economica,Alta
+Calle 63,Calle 146,15,Jueves,Economica,Media
+Calle 106,Flores,15,Jueves,Rapida,Baja
+Avenida 39,Virrey,14,Viernes,Costosa,Media
+Alcala,Mazuren,10,Jueves,Rapida,Alta
+Calle 106,Alcala,15,Miercoles,Rapida,Baja
+Calle 63,Calle 72,10,Sabado,Economica,Alta
+Calle 45,Calle 22,14,Jueves,Costosa,Media
+Alcala,Calle 72,13,Lunes,Rapida,Media
+Calle 19,Calle 63,11,Lunes,Transitada,Media
+Heroes,Calle 63,9,Viernes,Transitada,Alta
+Calle 146,Marly,15,Viernes,Directa,Alta
+Calle 45,Mazuren,10,Lunes,Economica,Baja
+Heroes,Calle 26,8,Lunes,Costosa,Baja
+Toberin,Calle 26,11,Miercoles,Rapida,Alta
+Calle 106,Calle 146,15,Sabado,Rapida,Alta
+Calle 76,Virrey,15,Lunes,Rapida,Media
+Calle 146,Terminal,10,Lunes,Transitada,Baja
+Heroes,Prado Veraniego,10,Lunes,Costosa,Media
+Calle 100,Alcala,13,Sabado,Economica,Baja
+Calle 76,Calle 22,9,Martes,Costosa,Alta
+Calle 57,Marly,8,Lunes,Costosa,Baja
+Terminal,Calle 76,10,Martes,Directa,Baja
+Alcala,Calle 146,12,Jueves,Directa,Alta
+Calle 146,Heroes,8,Miercoles,Transitada,Baja
+Calle 72,Marly,15,Lunes,Costosa,Alta
+Avenida 39,Calle 63,11,Martes,Rapida,Baja
+Calle 106,Heroes,11,Miercoles,Costosa,Baja
+Avenida 39,Flores,12,Sabado,Rapida,Alta
+Calle 57,Flores,15,Miercoles,Directa,Baja
+Mazuren,Calle 1,10,Martes,Transitada,Alta
+Pepe Sierra,Calle 45,13,Lunes,Directa,Alta
+Calle 1,Calle 100,13,Jueves,Economica,Baja
+Calle 45,Calle 22,13,Miercoles,Costosa,Baja
+Marly,Toberin,9,Jueves,Costosa,Baja
+Calle 146,Cardio Infantil,9,Viernes,Rapida,Media
+Calle 22,Calle 72,15,Lunes,Directa,Media
+Calle 45,Alcala,12,Jueves,Economica,Alta
+Calle 45,Heroes,10,Viernes,Rapida,Media
+Pepe Sierra,Calle 100,8,Jueves,Transitada,Media
+Calle 63,Calle 146,12,Miercoles,Costosa,Media
+Pepe Sierra,Calle 100,14,Sabado,Transitada,Alta
+Pepe Sierra,Calle 26,10,Jueves,Transitada,Alta
+Calle 146,Alcala,9,Martes,Rapida,Alta
+Calle 26,Pepe Sierra,14,Martes,Economica,Alta
+Calle 45,Calle 106,10,Lunes,Transitada,Alta
+Calle 63,Pepe Sierra,14,Jueves,Costosa,Alta
+Calle 85,Calle 1,14,Sabado,Directa,Baja
+Marly,Prado Veraniego,10,Miercoles,Costosa,Media
+Calle 85,Heroes,9,Miercoles,Rapida,Media
+Calle 1,Calle 100,15,Miercoles,Directa,Baja
+Calle 19,Calle 63,15,Jueves,Costosa,Alta
+Calle 146,Calle 63,13,Viernes,Economica,Alta
+Calle 187,Mazuren,10,Sabado,Costosa,Alta
+Avenida 39,Mazuren,11,Jueves,Costosa,Media
+Calle 1,Calle 72,9,Sabado,Economica,Baja
+Cardio Infantil,Pepe Sierra,12,Martes,Directa,Media
+Profamilia,Calle 146,12,Martes,Transitada,Media
+Marly,Prado Veraniego,14,Lunes,Directa,Alta
+Toberin,Calle 57,10,Sabado,Economica,Media
+Calle 1,Calle 100,9,Martes,Economica,Media
+Calle 146,Calle 1,9,Lunes,Costosa,Alta
+Alcala,Flores,11,Jueves,Rapida,Media
+Calle 1,Mazuren,12,Lunes,Transitada,Baja
+Calle 142,Calle 100,10,Jueves,Rapida,Media
+Calle 22,Calle 187,9,Lunes,Economica,Baja
+Cardio Infantil,Pepe Sierra,11,Miercoles,Economica,Baja
+Calle 19,Calle 63,14,Lunes,Economica,Baja
+Pepe Sierra,Calle 106,12,Lunes,Transitada,Baja
+Toberin,Calle 146,14,Martes,Costosa,Baja
+Toberin,Calle 72,15,Martes,Directa,Alta
+Calle 142,Calle 85,14,Miercoles,Directa,Baja
+Calle 85,Profamilia,13,Sabado,Rapida,Baja
+Calle 142,Calle 22,12,Viernes,Transitada,Media
+Prado Veraniego,Calle 100,13,Miercoles,Economica,Alta
+Heroes,Calle 63,15,Jueves,Transitada,Media
+Marly,Calle 187,10,Jueves,Costosa,Alta
+Calle 63,Calle 72,11,Martes,Rapida,Baja
+Heroes,Calle 187,15,Lunes,Economica,Alta
+Cardio Infantil,Heroes,12,Lunes,Transitada,Alta
+Calle 142,Cardio Infantil,13,Jueves,Costosa,Alta
+Calle 45,Marly,15,Martes,Costosa,Alta
+Avenida 39,Calle 187,9,Viernes,Transitada,Alta
+Virrey,Calle 26,11,Lunes,Directa,Alta
+Profamilia,Calle 19,11,Jueves,Costosa,Alta
+Calle 85,Calle 142,12,Miercoles,Transitada,Baja
+Calle 57,Toberin,13,Jueves,Transitada,Baja
+Calle 146,Calle 63,11,Jueves,Costosa,Alta
+Calle 63,Calle 26,13,Miercoles,Economica,Alta
+Prado Veraniego,Calle 100,14,Viernes,Transitada,Alta
+Calle 187,Alcala,9,Miercoles,Costosa,Media
+Calle 72,Calle 45,14,Viernes,Costosa,Media
+Flores,Prado Veraniego,15,Martes,Costosa,Baja
+Profamilia,Flores,13,Sabado,Rapida,Media
+Avenida 39,Prado Veraniego,8,Miercoles,Transitada,Alta
+Prado Veraniego,Heroes,15,Miercoles,Transitada,Baja
+Calle 142,Terminal,14,Lunes,Directa,Alta
+Mazuren,Marly,9,Sabado,Rapida,Alta
+Flores,Calle 187,15,Jueves,Economica,Alta
+Calle 142,Virrey,12,Miercoles,Economica,Alta
+Calle 100,Prado Veraniego,13,Viernes,Costosa,Alta
+Calle 63,Calle 57,11,Lunes,Rapida,Baja
+Toberin,Flores,12,Martes,Directa,Alta
+Calle 19,Calle 100,8,Sabado,Transitada,Alta
+Calle 22,Avenida 39,9,Viernes,Directa,Baja
+Calle 100,Mazuren,14,Sabado,Costosa,Alta
+Toberin,Heroes,10,Lunes,Rapida,Baja
+Toberin,Calle 72,12,Sabado,Directa,Baja
+Calle 63,Flores,8,Miercoles,Directa,Baja
+Calle 1,Virrey,9,Miercoles,Costosa,Media
+Toberin,Pepe Sierra,14,Lunes,Directa,Media
+Mazuren,Avenida 39,15,Miercoles,Rapida,Media
+Calle 142,Calle 146,13,Viernes,Costosa,Alta
+Calle 72,Terminal,12,Viernes,Directa,Media
+Calle 85,Calle 1,13,Sabado,Economica,Alta
+Terminal,Toberin,10,Jueves,Costosa,Media
+Toberin,Marly,8,Sabado,Transitada,Baja
+Avenida 39,Calle 72,11,Jueves,Transitada,Baja
+Calle 146,Flores,8,Martes,Directa,Media
+Calle 45,Pepe Sierra,8,Jueves,Rapida,Media
+Calle 146,Calle 72,9,Viernes,Rapida,Media
+Calle 63,Toberin,14,Sabado,Directa,Alta
+Calle 76,Calle 146,13,Sabado,Costosa,Alta
+Virrey,Avenida 39,13,Sabado,Transitada,Alta
+Calle 106,Calle 1,13,Viernes,Economica,Alta
+Calle 85,Pepe Sierra,9,Miercoles,Rapida,Media
+Calle 72,Calle 63,8,Lunes,Transitada,Alta
+Heroes,Alcala,14,Miercoles,Transitada,Media
+Cardio Infantil,Marly,9,Viernes,Directa,Alta
+Calle 57,Pepe Sierra,13,Jueves,Rapida,Media
+Calle 187,Avenida 39,12,Miercoles,Costosa,Media
+Pepe Sierra,Calle 100,11,Miercoles,Rapida,Baja
+Avenida 39,Calle 146,12,Miercoles,Economica,Alta
+Flores,Pepe Sierra,13,Martes,Directa,Baja
+Virrey,Alcala,13,Sabado,Transitada,Media
+Terminal,Prado Veraniego,13,Jueves,Transitada,Alta
+Calle 76,Calle 45,8,Miercoles,Costosa,Baja
+Calle 100,Terminal,14,Lunes,Transitada,Media
+Profamilia,Prado Veraniego,14,Viernes,Costosa,Baja
+Calle 45,Calle 100,14,Jueves,Rapida,Media
+Calle 1,Calle 19,8,Martes,Rapida,Alta
+Marly,Avenida 39,10,Jueves,Economica,Baja
+Calle 106,Calle 1,14,Jueves,Directa,Baja
+Marly,Calle 85,10,Sabado,Costosa,Alta
+Calle 187,Calle 100,10,Jueves,Rapida,Media
+Avenida 39,Calle 63,9,Martes,Directa,Baja
+Pepe Sierra,Calle 142,15,Martes,Transitada,Alta
+Calle 45,Calle 106,14,Miercoles,Transitada,Media
+Cardio Infantil,Alcala,13,Lunes,Costosa,Media
+Virrey,Prado Veraniego,11,Martes,Economica,Media
+Calle 187,Avenida 39,8,Miercoles,Economica,Media
+Calle 85,Calle 57,13,Viernes,Costosa,Alta
+Calle 106,Calle 26,15,Miercoles,Transitada,Baja
+Alcala,Calle 72,9,Martes,Costosa,Baja
+Calle 187,Prado Veraniego,8,Viernes,Transitada,Baja
+Virrey,Calle 22,13,Miercoles,Costosa,Baja
+Calle 1,Calle 106,14,Lunes,Rapida,Alta
+Marly,Calle 45,8,Martes,Directa,Baja
+Cardio Infantil,Profamilia,8,Lunes,Directa,Baja
+Pepe Sierra,Calle 187,15,Miercoles,Transitada,Media
+Calle 57,Calle 76,9,Viernes,Rapida,Baja
+Pepe Sierra,Marly,12,Sabado,Economica,Media
+Heroes,Calle 100,13,Sabado,Transitada,Media
+Calle 57,Prado Veraniego,10,Lunes,Economica,Alta
+Calle 142,Calle 76,9,Viernes,Economica,Media
+Alcala,Toberin,15,Viernes,Transitada,Alta
+Calle 142,Calle 106,12,Martes,Transitada,Media
+Alcala,Calle 187,13,Viernes,Costosa,Baja
+Mazuren,Calle 45,14,Lunes,Rapida,Baja
+Calle 76,Calle 63,11,Martes,Directa,Alta
+Avenida 39,Mazuren,8,Viernes,Costosa,Alta
+Calle 76,Calle 106,10,Sabado,Costosa,Alta
+Pepe Sierra,Calle 72,15,Viernes,Rapida,Baja
+Toberin,Calle 63,8,Sabado,Economica,Alta
+Calle 26,Calle 45,8,Martes,Costosa,Baja
+Terminal,Virrey,8,Jueves,Rapida,Alta
+Virrey,Calle 1,10,Miercoles,Costosa,Media
+Heroes,Heroes,15,Sabado,Rapida,Baja
+Profamilia,Mazuren,12,Lunes,Costosa,Alta
+Flores,Calle 76,8,Miercoles,Transitada,Baja
+Alcala,Flores,10,Miercoles,Rapida,Baja
+Calle 142,Calle 57,12,Miercoles,Directa,Media
+Calle 187,Flores,10,Lunes,Economica,Media
+Calle 22,Cardio Infantil,10,Viernes,Directa,Baja
+Toberin,Calle 76,14,Lunes,Costosa,Alta
+Calle 45,Calle 1,14,Martes,Transitada,Baja
+Calle 100,Calle 85,14,Viernes,Rapida,Baja
+Calle 106,Calle 63,13,Sabado,Rapida,Alta
+Heroes,Calle 76,14,Jueves,Costosa,Media
+Terminal,Calle 63,15,Miercoles,Economica,Media
+Profamilia,Pepe Sierra,11,Miercoles,Rapida,Baja
+Cardio Infantil,Terminal,10,Viernes,Rapida,Media
+Prado Veraniego,Calle 72,9,Sabado,Rapida,Alta
+Calle 100,Pepe Sierra,11,Viernes,Directa,Media
+Terminal,Calle 45,15,Jueves,Costosa,Baja
+Prado Veraniego,Cardio Infantil,14,Miercoles,Costosa,Baja
+Calle 85,Calle 22,8,Jueves,Transitada,Media
+Alcala,Calle 146,12,Jueves,Rapida,Baja
+Pepe Sierra,Marly,10,Jueves,Costosa,Baja
+Cardio Infantil,Terminal,12,Jueves,Rapida,Baja
+Calle 63,Calle 26,14,Jueves,Transitada,Alta
+Calle 85,Calle 187,14,Miercoles,Costosa,Baja
+Terminal,Calle 45,13,Lunes,Transitada,Baja
+Prado Veraniego,Calle 22,13,Viernes,Rapida,Baja
+Calle 19,Pepe Sierra,12,Sabado,Transitada,Alta
+Calle 22,Virrey,9,Viernes,Costosa,Media
+Flores,Terminal,14,Lunes,Rapida,Alta
+Pepe Sierra,Calle 22,9,Jueves,Costosa,Alta
+Calle 76,Flores,13,Sabado,Rapida,Alta
+Calle 45,Calle 63,10,Jueves,Transitada,Alta
+Calle 26,Toberin,11,Martes,Costosa,Alta
+Virrey,Calle 57,8,Viernes,Transitada,Media
+Calle 26,Alcala,9,Viernes,Directa,Alta
+Calle 1,Cardio Infantil,10,Viernes,Economica,Baja
+Calle 85,Cardio Infantil,14,Jueves,Directa,Media
+Alcala,Calle 142,13,Viernes,Costosa,Media
+Calle 26,Terminal,14,Viernes,Costosa,Media
+Terminal,Calle 45,8,Jueves,Rapida,Media
+Calle 106,Calle 26,15,Sabado,Economica,Media
+Calle 26,Calle 22,15,Jueves,Transitada,Media
+Heroes,Calle 142,15,Martes,Rapida,Alta
+Toberin,Heroes,15,Sabado,Transitada,Baja
+Calle 57,Virrey,11,Lunes,Rapida,Alta
+Marly,Profamilia,8,Lunes,Economica,Alta
+Calle 19,Calle 187,9,Viernes,Transitada,Alta
+Calle 26,Calle 72,14,Sabado,Economica,Baja
+Virrey,Calle 63,8,Lunes,Transitada,Media
+Avenida 39,Calle 57,14,Viernes,Rapida,Media
+Prado Veraniego,Calle 85,12,Sabado,Rapida,Alta
+Marly,Virrey,12,Viernes,Transitada,Alta
+Virrey,Flores,13,Jueves,Economica,Baja
+Prado Veraniego,Calle 146,14,Viernes,Directa,Baja
+Flores,Calle 187,9,Viernes,Transitada,Alta
+Calle 146,Virrey,9,Lunes,Costosa,Media
+Marly,Calle 85,13,Jueves,Directa,Media
+Calle 63,Calle 187,8,Viernes,Costosa,Baja
+Calle 106,Terminal,9,Sabado,Rapida,Alta
+Mazuren,Calle 1,15,Lunes,Rapida,Media
+Alcala,Calle 57,14,Lunes,Directa,Media
+Calle 72,Calle 57,14,Miercoles,Transitada,Media
+Calle 45,Calle 63,9,Viernes,Rapida,Baja
+Calle 187,Calle 63,15,Viernes,Transitada,Media
+Calle 22,Calle 146,12,Miercoles,Directa,Media
+Marly,Heroes,9,Lunes,Transitada,Alta
+Calle 63,Calle 1,11,Lunes,Economica,Baja
+Calle 142,Calle 63,13,Viernes,Rapida,Media
+Marly,Calle 63,11,Miercoles,Economica,Alta
+Calle 57,Mazuren,15,Viernes,Costosa,Media
+Cardio Infantil,Flores,14,Martes,Rapida,Alta
+Profamilia,Toberin,10,Miercoles,Economica,Media
+Terminal,Calle 85,9,Lunes,Costosa,Alta
+Calle 100,Calle 187,14,Martes,Economica,Baja
+Calle 146,Calle 106,13,Lunes,Transitada,Baja
+Flores,Heroes,10,Miercoles,Costosa,Baja
+Avenida 39,Terminal,10,Miercoles,Economica,Baja
+Cardio Infantil,Mazuren,13,Jueves,Directa,Baja
+Avenida 39,Calle 76,14,Martes,Rapida,Media
+Virrey,Calle 106,13,Viernes,Rapida,Media
+Toberin,Terminal,12,Jueves,Transitada,Baja
+Profamilia,Virrey,11,Jueves,Economica,Baja
+Calle 63,Cardio Infantil,10,Martes,Economica,Media
+Calle 22,Calle 76,14,Miercoles,Transitada,Baja
+Calle 19,Calle 142,15,Jueves,Rapida,Baja
+Calle 76,Toberin,12,Jueves,Costosa,Baja
+Calle 187,Calle 142,11,Lunes,Transitada,Baja
+Calle 22,Calle 72,12,Sabado,Transitada,Alta
+Calle 26,Calle 72,14,Viernes,Directa,Baja
+Calle 100,Avenida 39,14,Lunes,Directa,Media
+Calle 72,Calle 45,8,Sabado,Transitada,Media
+Calle 57,Flores,15,Viernes,Costosa,Media
+Profamilia,Calle 63,14,Viernes,Transitada,Media
+Calle 106,Calle 22,8,Lunes,Costosa,Media
+Cardio Infantil,Pepe Sierra,13,Miercoles,Economica,Media
+Calle 22,Calle 142,9,Martes,Directa,Alta
+Calle 76,Calle 45,15,Sabado,Economica,Baja
+Avenida 39,Calle 76,13,Jueves,Economica,Media
+Calle 26,Terminal,10,Miercoles,Rapida,Media
+Toberin,Cardio Infantil,10,Viernes,Economica,Media
+Terminal,Toberin,11,Lunes,Directa,Alta
+Heroes,Calle 76,10,Martes,Directa,Alta
+Heroes,Mazuren,9,Lunes,Rapida,Media
+Marly,Calle 19,9,Sabado,Costosa,Baja
+Heroes,Marly,10,Sabado,Transitada,Alta
+Calle 106,Calle 146,9,Martes,Costosa,Media
+Profamilia,Prado Veraniego,8,Martes,Economica,Alta
+Calle 57,Heroes,14,Miercoles,Costosa,Media
+Calle 22,Pepe Sierra,11,Martes,Directa,Media
+Calle 106,Calle 142,9,Viernes,Costosa,Media
+Pepe Sierra,Prado Veraniego,15,Miercoles,Economica,Baja
+Calle 100,Calle 187,8,Viernes,Directa,Media
+Prado Veraniego,Marly,12,Jueves,Economica,Alta
+Cardio Infantil,Calle 26,11,Jueves,Rapida,Alta
+Calle 19,Calle 106,15,Martes,Costosa,Alta
+Calle 100,Pepe Sierra,8,Viernes,Directa,Alta
+Calle 146,Calle 85,15,Martes,Transitada,Baja
+Profamilia,Calle 106,8,Viernes,Rapida,Alta
+Calle 72,Toberin,13,Sabado,Transitada,Media
+Calle 45,Calle 26,8,Jueves,Rapida,Baja
+Calle 72,Avenida 39,9,Sabado,Directa,Baja
+Calle 187,Calle 26,14,Viernes,Transitada,Alta
+Calle 19,Calle 100,11,Martes,Transitada,Alta
+Virrey,Toberin,9,Lunes,Economica,Media
+Toberin,Calle 100,9,Jueves,Rapida,Media
+Calle 45,Cardio Infantil,15,Miercoles,Rapida,Media
+Calle 142,Calle 57,15,Viernes,Transitada,Alta
+Calle 72,Calle 22,13,Viernes,Transitada,Media
+Calle 19,Calle 26,14,Jueves,Economica,Baja
+Calle 106,Calle 63,10,Sabado,Transitada,Baja
+Heroes,Calle 85,11,Jueves,Economica,Baja
+Alcala,Calle 187,15,Viernes,Directa,Media
+Calle 142,Pepe Sierra,12,Jueves,Rapida,Baja
+Calle 1,Terminal,9,Miercoles,Costosa,Baja
+Virrey,Calle 76,11,Viernes,Economica,Baja
+Toberin,Calle 146,10,Sabado,Directa,Baja
+Calle 142,Avenida 39,9,Sabado,Costosa,Media
+Mazuren,Marly,15,Viernes,Directa,Baja
+Calle 1,Calle 146,8,Martes,Rapida,Alta
+Calle 22,Cardio Infantil,11,Martes,Costosa,Alta
+Calle 146,Calle 45,10,Sabado,Transitada,Baja
+Virrey,Marly,9,Jueves,Economica,Media
+Calle 57,Calle 26,9,Martes,Transitada,Media
+Calle 45,Virrey,9,Viernes,Costosa,Alta
+Flores,Calle 1,12,Miercoles,Transitada,Baja
+Calle 63,Heroes,9,Viernes,Rapida,Media
+Calle 106,Calle 142,12,Martes,Economica,Alta
+Calle 142,Profamilia,12,Jueves,Costosa,Media
+Terminal,Calle 19,9,Lunes,Costosa,Media
+Calle 22,Terminal,13,Viernes,Costosa,Alta
+Calle 142,Calle 22,15,Lunes,Directa,Alta
+Alcala,Calle 26,15,Jueves,Rapida,Baja
+Calle 26,Calle 22,13,Viernes,Costosa,Media
+Calle 26,Terminal,12,Martes,Transitada,Alta
+Virrey,Calle 63,8,Lunes,Directa,Baja
+Mazuren,Calle 146,9,Jueves,Transitada,Alta
+Cardio Infantil,Calle 106,11,Miercoles,Directa,Alta
+Prado Veraniego,Calle 187,14,Viernes,Transitada,Media
+Calle 142,Calle 45,10,Martes,Directa,Baja
+Calle 26,Calle 1,9,Martes,Costosa,Media
+Flores,Calle 57,9,Martes,Transitada,Media
+Calle 45,Flores,15,Miercoles,Directa,Alta
+Virrey,Calle 76,15,Lunes,Costosa,Media
+Alcala,Calle 76,8,Viernes,Directa,Baja
+Cardio Infantil,Heroes,13,Viernes,Economica,Baja
+Calle 187,Toberin,13,Jueves,Economica,Media
+Calle 57,Avenida 39,9,Martes,Economica,Baja
+Toberin,Profamilia,11,Lunes,Costosa,Media
+Profamilia,Calle 106,13,Lunes,Costosa,Media
+Calle 146,Cardio Infantil,9,Lunes,Rapida,Alta
+Calle 76,Calle 146,15,Lunes,Transitada,Alta
+Calle 22,Calle 100,12,Lunes,Directa,Media
+Pepe Sierra,Flores,13,Miercoles,Directa,Alta
+Calle 72,Avenida 39,11,Lunes,Costosa,Baja
+Avenida 39,Calle 72,15,Martes,Directa,Baja
+Marly,Calle 57,9,Martes,Rapida,Alta
+Prado Veraniego,Pepe Sierra,9,Jueves,Directa,Baja
+Flores,Calle 142,13,Sabado,Directa,Baja
+Calle 76,Calle 1,8,Sabado,Directa,Baja
+Avenida 39,Calle 142,8,Martes,Economica,Baja
+Calle 63,Calle 19,11,Sabado,Transitada,Media
+Calle 22,Marly,13,Lunes,Costosa,Baja
+Calle 57,Alcala,8,Jueves,Transitada,Baja
+Calle 85,Calle 106,15,Sabado,Rapida,Alta
+Calle 146,Prado Veraniego,9,Sabado,Rapida,Alta
+Calle 146,Flores,13,Martes,Directa,Alta
+Marly,Calle 106,9,Lunes,Transitada,Alta
+Toberin,Profamilia,15,Lunes,Costosa,Baja
+Calle 85,Calle 63,9,Jueves,Directa,Alta
+Calle 85,Calle 45,13,Miercoles,Costosa,Alta
+Mazuren,Pepe Sierra,14,Viernes,Costosa,Media
+Calle 26,Prado Veraniego,11,Sabado,Directa,Alta
+Calle 85,Calle 76,12,Sabado,Economica,Media
+Calle 85,Calle 100,9,Miercoles,Rapida,Alta
+Calle 26,Virrey,8,Martes,Costosa,Baja
+Prado Veraniego,Calle 106,12,Viernes,Directa,Alta
+Calle 85,Calle 22,13,Viernes,Transitada,Alta
+Terminal,Heroes,8,Miercoles,Economica,Alta
+Calle 26,Mazuren,14,Jueves,Economica,Alta
+Calle 72,Marly,8,Viernes,Economica,Media
+Calle 72,Marly,11,Jueves,Directa,Media
+Calle 26,Heroes,11,Lunes,Costosa,Alta
+Calle 63,Calle 45,9,Lunes,Costosa,Alta
+Heroes,Calle 22,11,Lunes,Economica,Baja
+Marly,Calle 85,12,Sabado,Rapida,Media
+Mazuren,Calle 187,15,Jueves,Costosa,Media
+Calle 26,Profamilia,11,Viernes,Economica,Alta
+Calle 85,Calle 45,13,Martes,Rapida,Alta
+Virrey,Cardio Infantil,14,Jueves,Directa,Media
+Heroes,Mazuren,12,Martes,Costosa,Baja
+Calle 22,Calle 1,10,Jueves,Transitada,Baja
+Marly,Profamilia,12,Viernes,Economica,Media
+Calle 22,Cardio Infantil,14,Lunes,Economica,Baja
+Calle 19,Alcala,13,Lunes,Costosa,Baja
+Calle 100,Toberin,13,Sabado,Directa,Media
+Flores,Alcala,11,Jueves,Rapida,Alta
+Cardio Infantil,Calle 106,13,Martes,Economica,Media
+Heroes,Calle 1,11,Martes,Rapida,Alta
+Profamilia,Calle 106,13,Viernes,Economica,Baja
+Calle 57,Virrey,11,Viernes,Transitada,Baja
+Pepe Sierra,Alcala,13,Miercoles,Costosa,Media
+Virrey,Calle 187,13,Miercoles,Costosa,Media
+Calle 85,Calle 106,12,Jueves,Rapida,Alta
+Alcala,Calle 142,10,Martes,Economica,Baja
+Calle 142,Marly,10,Miercoles,Economica,Media
+Virrey,Flores,14,Viernes,Rapida,Baja
+Calle 76,Marly,8,Martes,Transitada,Baja
+Toberin,Prado Veraniego,8,Jueves,Transitada,Baja
+Avenida 39,Heroes,11,Jueves,Directa,Media
+Calle 72,Virrey,12,Lunes,Costosa,Alta
+Calle 19,Calle 1,10,Miercoles,Economica,Baja
+Flores,Calle 72,11,Lunes,Transitada,Baja
+Calle 57,Profamilia,13,Sabado,Directa,Alta
+Calle 57,Calle 100,10,Miercoles,Transitada,Alta
+Calle 45,Avenida 39,10,Jueves,Economica,Media
+Virrey,Calle 187,9,Jueves,Rapida,Alta
+Calle 19,Calle 1,11,Sabado,Rapida,Media
+Calle 142,Prado Veraniego,9,Sabado,Directa,Baja
+Calle 187,Calle 146,12,Lunes,Economica,Baja
+Calle 76,Pepe Sierra,15,Sabado,Directa,Baja
+Virrey,Terminal,14,Miercoles,Economica,Alta
+Toberin,Calle 63,13,Jueves,Directa,Baja
+Mazuren,Avenida 39,11,Miercoles,Directa,Alta
+Heroes,Calle 85,14,Jueves,Costosa,Media
+Calle 142,Prado Veraniego,13,Miercoles,Directa,Media
+Avenida 39,Calle 1,9,Jueves,Rapida,Baja
+Calle 26,Heroes,11,Sabado,Costosa,Baja
+Calle 146,Calle 45,8,Sabado,Costosa,Baja
+Calle 45,Calle 26,14,Sabado,Directa,Alta
+Calle 142,Marly,13,Viernes,Rapida,Baja
+Calle 22,Calle 146,9,Jueves,Economica,Baja
+Calle 63,Toberin,12,Sabado,Rapida,Alta
+Prado Veraniego,Avenida 39,13,Viernes,Costosa,Alta
+Avenida 39,Calle 85,10,Sabado,Economica,Alta
+Calle 63,Calle 146,12,Martes,Transitada,Media
+Calle 100,Calle 22,8,Sabado,Rapida,Baja
+Calle 19,Heroes,12,Miercoles,Transitada,Media
+Toberin,Calle 106,13,Sabado,Transitada,Baja
+Pepe Sierra,Calle 142,14,Martes,Costosa,Alta
+Calle 85,Calle 19,15,Martes,Rapida,Baja
+Calle 142,Mazuren,13,Viernes,Economica,Baja
+Calle 100,Marly,12,Miercoles,Transitada,Media
+Calle 100,Calle 85,9,Lunes,Economica,Media
+Calle 187,Calle 1,12,Sabado,Directa,Alta
+Calle 72,Calle 100,13,Lunes,Directa,Alta
+Calle 187,Calle 142,9,Sabado,Costosa,Media
+Calle 45,Calle 76,11,Miercoles,Rapida,Media
+Calle 45,Calle 146,15,Sabado,Transitada,Media
+Calle 85,Calle 72,10,Lunes,Transitada,Alta
+Calle 1,Calle 57,11,Martes,Costosa,Media
+Calle 106,Profamilia,9,Viernes,Transitada,Baja
+Marly,Calle 85,13,Viernes,Economica,Alta
+Flores,Calle 76,14,Jueves,Economica,Baja
+Virrey,Calle 63,11,Sabado,Transitada,Alta
+Virrey,Calle 187,10,Viernes,Rapida,Alta
+Profamilia,Calle 142,15,Miercoles,Directa,Alta
+Virrey,Calle 106,12,Viernes,Economica,Alta
+Heroes,Calle 63,8,Martes,Rapida,Baja
+Terminal,Calle 100,14,Viernes,Economica,Alta
+Calle 142,Heroes,8,Miercoles,Transitada,Media
+Calle 19,Avenida 39,12,Miercoles,Transitada,Alta
+Calle 19,Calle 22,14,Martes,Economica,Media
+Toberin,Terminal,13,Jueves,Costosa,Baja
+Calle 1,Calle 146,11,Sabado,Costosa,Alta
+Calle 72,Cardio Infantil,13,Viernes,Rapida,Alta
+Profamilia,Calle 63,10,Viernes,Transitada,Media
+Calle 85,Heroes,14,Martes,Rapida,Alta
+Calle 100,Flores,9,Sabado,Rapida,Media
+Calle 45,Mazuren,12,Jueves,Transitada,Media
+Calle 19,Terminal,15,Viernes,Rapida,Alta
+Calle 72,Cardio Infantil,11,Jueves,Costosa,Media
+Calle 85,Toberin,15,Sabado,Transitada,Media
+Calle 45,Profamilia,9,Sabado,Economica,Alta
+Avenida 39,Calle 146,10,Viernes,Transitada,Baja
+Terminal,Calle 22,14,Jueves,Directa,Media
+Calle 45,Calle 85,11,Martes,Economica,Media
+Calle 76,Calle 85,12,Martes,Costosa,Media
+Cardio Infantil,Toberin,9,Martes,Costosa,Alta
+Calle 187,Calle 19,8,Miercoles,Transitada,Baja
+Calle 1,Mazuren,13,Jueves,Costosa,Media
+Terminal,Heroes,12,Lunes,Economica,Alta
+Calle 142,Calle 57,13,Martes,Directa,Baja
+Calle 45,Calle 57,10,Lunes,Costosa,Media
+Calle 76,Cardio Infantil,12,Lunes,Costosa,Media
+Toberin,Calle 142,12,Sabado,Rapida,Media
+Terminal,Calle 26,14,Martes,Directa,Baja
+Calle 26,Heroes,9,Jueves,Economica,Baja
+Prado Veraniego,Mazuren,11,Sabado,Transitada,Baja
+Terminal,Calle 72,10,Jueves,Costosa,Alta
+Flores,Marly,13,Miercoles,Rapida,Alta
+Pepe Sierra,Calle 1,13,Miercoles,Directa,Baja
+Calle 45,Calle 106,11,Martes,Rapida,Alta
+Flores,Heroes,8,Lunes,Rapida,Alta
+Marly,Calle 1,11,Viernes,Directa,Alta
+Calle 76,Calle 57,9,Sabado,Directa,Baja
+Avenida 39,Cardio Infantil,9,Martes,Directa,Alta
+Toberin,Virrey,10,Viernes,Transitada,Media
+Avenida 39,Calle 100,14,Lunes,Economica,Alta
+Terminal,Calle 57,14,Miercoles,Rapida,Baja
+Profamilia,Calle 100,15,Miercoles,Economica,Alta
+Toberin,Calle 76,13,Jueves,Costosa,Media
+Avenida 39,Calle 57,15,Jueves,Directa,Baja
+Calle 106,Calle 57,13,Sabado,Transitada,Baja
+Calle 26,Calle 106,15,Lunes,Directa,Alta
+Alcala,Mazuren,11,Miercoles,Costosa,Baja
+Calle 72,Calle 146,10,Viernes,Economica,Baja
+Calle 76,Prado Veraniego,11,Viernes,Economica,Media
+Calle 19,Alcala,15,Miercoles,Rapida,Baja
+Calle 45,Calle 76,15,Sabado,Rapida,Baja
+Profamilia,Calle 63,15,Jueves,Costosa,Baja
+Prado Veraniego,Calle 72,13,Jueves,Transitada,Alta
+Calle 146,Prado Veraniego,9,Martes,Transitada,Alta
+Pepe Sierra,Calle 63,11,Lunes,Directa,Media
+Calle 187,Calle 142,12,Martes,Rapida,Media
+Mazuren,Calle 22,10,Sabado,Costosa,Media
+Marly,Prado Veraniego,12,Jueves,Directa,Baja
+Alcala,Calle 72,9,Lunes,Directa,Media
+Calle 142,Toberin,8,Viernes,Transitada,Media
+Calle 187,Virrey,10,Sabado,Directa,Media
+Calle 72,Calle 142,11,Sabado,Directa,Alta
+Heroes,Heroes,15,Miercoles,Rapida,Media
+Calle 63,Calle 72,10,Miercoles,Costosa,Baja
+Calle 22,Heroes,14,Miercoles,Directa,Alta
+Calle 142,Calle 187,11,Jueves,Transitada,Media
+Calle 106,Mazuren,10,Viernes,Rapida,Baja
+Cardio Infantil,Prado Veraniego,8,Miercoles,Economica,Alta
+Calle 106,Terminal,15,Viernes,Costosa,Alta
+Calle 63,Flores,8,Lunes,Economica,Media
+Calle 76,Toberin,10,Viernes,Transitada,Baja
+Calle 57,Mazuren,12,Miercoles,Economica,Alta
+Calle 76,Calle 57,10,Viernes,Transitada,Alta
+Prado Veraniego,Calle 72,8,Jueves,Directa,Baja
+Marly,Calle 57,14,Sabado,Economica,Baja
+Heroes,Alcala,10,Lunes,Directa,Alta
+Mazuren,Calle 76,12,Martes,Economica,Baja
+Toberin,Pepe Sierra,9,Martes,Rapida,Baja
+Marly,Virrey,12,Viernes,Rapida,Baja
+Avenida 39,Prado Veraniego,11,Martes,Directa,Media
+Calle 106,Calle 142,11,Lunes,Rapida,Baja
+Flores,Calle 146,10,Sabado,Directa,Alta
+Calle 19,Pepe Sierra,9,Lunes,Transitada,Media
+Profamilia,Calle 85,13,Viernes,Costosa,Media
+Calle 19,Calle 1,9,Miercoles,Directa,Media
+Pepe Sierra,Toberin,9,Sabado,Transitada,Baja
+Calle 106,Cardio Infantil,12,Viernes,Directa,Baja
+Toberin,Calle 100,8,Viernes,Rapida,Media
+Calle 63,Calle 76,12,Viernes,Costosa,Alta
+Calle 57,Calle 85,15,Lunes,Transitada,Alta
+Pepe Sierra,Alcala,11,Jueves,Transitada,Media
+Calle 187,Calle 57,12,Lunes,Rapida,Media
+Calle 72,Flores,9,Sabado,Economica,Baja
+Flores,Calle 1,10,Sabado,Economica,Baja
+Alcala,Calle 72,13,Viernes,Transitada,Alta
+Calle 76,Marly,15,Miercoles,Costosa,Baja
+Prado Veraniego,Calle 76,8,Viernes,Economica,Alta
+Alcala,Heroes,15,Viernes,Costosa,Alta
+Heroes,Heroes,14,Martes,Rapida,Media
+Calle 146,Terminal,10,Viernes,Economica,Alta
+Flores,Marly,9,Sabado,Directa,Baja
+Calle 106,Calle 63,14,Lunes,Transitada,Alta
+Calle 76,Calle 26,11,Viernes,Transitada,Baja
+Calle 19,Mazuren,8,Viernes,Rapida,Baja
+Calle 72,Calle 85,14,Lunes,Directa,Media
+Terminal,Calle 1,11,Lunes,Transitada,Alta
+Calle 22,Heroes,9,Martes,Directa,Alta
+Prado Veraniego,Pepe Sierra,13,Lunes,Directa,Baja
+Flores,Avenida 39,11,Miercoles,Rapida,Alta
+Calle 106,Calle 72,8,Miercoles,Economica,Baja
+Calle 72,Calle 45,15,Sabado,Transitada,Baja
+Avenida 39,Pepe Sierra,13,Jueves,Economica,Media
+Prado Veraniego,Calle 85,13,Martes,Directa,Baja
+Alcala,Calle 57,12,Viernes,Directa,Baja
+Heroes,Prado Veraniego,15,Lunes,Rapida,Baja
+Terminal,Calle 72,11,Martes,Economica,Baja
+Calle 63,Marly,11,Lunes,Rapida,Media
+Calle 187,Calle 19,13,Lunes,Rapida,Media
+Calle 19,Alcala,11,Viernes,Economica,Media
+Prado Veraniego,Calle 100,14,Viernes,Costosa,Baja
+Avenida 39,Pepe Sierra,10,Martes,Rapida,Alta
+Calle 187,Mazuren,10,Sabado,Rapida,Alta
+Calle 26,Calle 187,13,Martes,Costosa,Media
+Calle 1,Calle 106,13,Miercoles,Directa,Alta
+Mazuren,Calle 19,9,Viernes,Costosa,Baja
+Calle 106,Calle 100,14,Viernes,Costosa,Media
+Terminal,Calle 72,12,Viernes,Economica,Alta
+Calle 45,Mazuren,10,Jueves,Directa,Alta
+Mazuren,Profamilia,12,Martes,Transitada,Baja
+Calle 1,Calle 22,10,Martes,Economica,Baja
+Calle 85,Calle 63,10,Miercoles,Economica,Baja
+Calle 26,Calle 72,14,Sabado,Transitada,Baja
+Virrey,Prado Veraniego,14,Martes,Transitada,Alta
+Mazuren,Calle 187,14,Jueves,Economica,Alta
+Calle 85,Calle 63,8,Miercoles,Economica,Baja
+Calle 45,Calle 72,15,Viernes,Transitada,Media
+Calle 1,Mazuren,8,Sabado,Rapida,Alta
+Calle 85,Calle 106,14,Sabado,Economica,Media
+Calle 85,Heroes,13,Jueves,Economica,Baja
+Calle 142,Heroes,11,Miercoles,Rapida,Media
+Calle 76,Flores,12,Lunes,Transitada,Baja
+Calle 187,Calle 57,9,Sabado,Transitada,Alta
+Calle 146,Calle 63,11,Martes,Costosa,Baja
+Calle 26,Calle 142,10,Jueves,Transitada,Media
+Profamilia,Calle 100,11,Martes,Economica,Media
+Calle 85,Marly,8,Martes,Rapida,Media
+Pepe Sierra,Calle 1,9,Jueves,Transitada,Baja
+Calle 1,Calle 85,8,Jueves,Transitada,Media
+Terminal,Calle 76,8,Lunes,Costosa,Baja
+Mazuren,Calle 63,9,Lunes,Transitada,Alta
+Prado Veraniego,Calle 106,13,Martes,Rapida,Alta
+Calle 106,Calle 1,15,Viernes,Costosa,Baja
+Calle 106,Prado Veraniego,12,Lunes,Rapida,Baja
+Calle 146,Cardio Infantil,8,Jueves,Rapida,Alta
+Calle 76,Calle 100,10,Sabado,Economica,Alta
+Calle 72,Toberin,12,Jueves,Transitada,Alta
+Profamilia,Calle 45,14,Viernes,Rapida,Alta
+Calle 1,Calle 57,11,Viernes,Directa,Media
+Virrey,Marly,8,Viernes,Economica,Baja
+Calle 72,Calle 22,13,Jueves,Costosa,Media
+Calle 72,Calle 106,13,Sabado,Costosa,Media
+Marly,Calle 1,13,Lunes,Costosa,Alta
+Cardio Infantil,Calle 45,15,Sabado,Rapida,Alta
+Virrey,Calle 142,8,Lunes,Transitada,Media
+Calle 187,Calle 26,15,Lunes,Directa,Media
+Calle 85,Calle 142,12,Viernes,Costosa,Baja
+Terminal,Calle 63,8,Jueves,Directa,Baja
+Calle 63,Pepe Sierra,13,Martes,Economica,Baja
+Marly,Virrey,15,Miercoles,Directa,Media
+Prado Veraniego,Marly,9,Miercoles,Transitada,Media
+Calle 72,Calle 76,8,Miercoles,Costosa,Alta
+Calle 26,Calle 142,11,Miercoles,Rapida,Alta
+Calle 19,Calle 63,12,Martes,Transitada,Alta
+Virrey,Profamilia,11,Martes,Costosa,Alta
+Heroes,Calle 19,13,Viernes,Rapida,Baja
+Calle 76,Calle 1,14,Lunes,Rapida,Media
+Calle 57,Calle 100,8,Lunes,Costosa,Baja
+Calle 19,Prado Veraniego,10,Jueves,Transitada,Media
+Calle 187,Virrey,8,Viernes,Transitada,Baja
+Profamilia,Mazuren,10,Martes,Costosa,Media
+Calle 57,Calle 19,12,Miercoles,Costosa,Alta
+Mazuren,Prado Veraniego,10,Jueves,Transitada,Baja
+Calle 26,Terminal,13,Lunes,Directa,Baja
+Calle 63,Calle 22,12,Lunes,Economica,Baja
+Profamilia,Prado Veraniego,13,Martes,Rapida,Alta
+Calle 22,Prado Veraniego,15,Jueves,Directa,Baja
+Calle 72,Calle 26,9,Martes,Rapida,Media
+Calle 85,Toberin,13,Lunes,Transitada,Baja
+Heroes,Calle 22,12,Martes,Costosa,Alta
+Calle 26,Calle 106,10,Lunes,Transitada,Media
+Calle 45,Calle 106,14,Lunes,Directa,Baja
+Calle 146,Pepe Sierra,8,Sabado,Directa,Media
+Calle 187,Calle 100,14,Sabado,Rapida,Media
+Calle 187,Calle 26,14,Miercoles,Economica,Alta
+Virrey,Pepe Sierra,14,Martes,Economica,Media
+Flores,Alcala,9,Sabado,Rapida,Media
+Toberin,Pepe Sierra,10,Jueves,Rapida,Alta
+Calle 72,Calle 76,12,Viernes,Rapida,Baja
+Calle 1,Calle 76,13,Sabado,Rapida,Baja
+Heroes,Mazuren,12,Lunes,Rapida,Baja
+Calle 72,Prado Veraniego,14,Martes,Economica,Media
+Calle 1,Calle 72,14,Lunes,Directa,Alta
+Calle 146,Calle 106,15,Sabado,Directa,Baja
+Calle 57,Cardio Infantil,9,Viernes,Directa,Media
+Calle 22,Calle 45,8,Sabado,Rapida,Media
+Calle 45,Calle 19,14,Viernes,Directa,Media
+Calle 187,Calle 106,14,Lunes,Directa,Baja
+Alcala,Virrey,8,Viernes,Directa,Alta
+Calle 146,Heroes,11,Jueves,Directa,Baja
+Calle 45,Avenida 39,8,Jueves,Economica,Alta
+Marly,Calle 72,10,Sabado,Transitada,Alta
+Calle 63,Calle 142,14,Lunes,Directa,Media
+Avenida 39,Calle 22,9,Sabado,Directa,Baja
+Profamilia,Calle 63,15,Jueves,Transitada,Media
+Prado Veraniego,Terminal,8,Jueves,Economica,Alta
+Flores,Calle 26,12,Martes,Economica,Baja
+Calle 76,Avenida 39,12,Miercoles,Transitada,Baja
+Terminal,Calle 63,14,Lunes,Economica,Media
+Calle 100,Alcala,14,Martes,Transitada,Alta
+Calle 45,Mazuren,12,Sabado,Rapida,Media
+Calle 57,Calle 100,14,Viernes,Directa,Baja
+Calle 72,Profamilia,9,Miercoles,Rapida,Baja
+Cardio Infantil,Calle 19,10,Lunes,Rapida,Baja
+Alcala,Prado Veraniego,10,Miercoles,Transitada,Alta
+Calle 76,Terminal,14,Miercoles,Transitada,Alta
+Terminal,Calle 19,14,Jueves,Costosa,Baja
+Calle 100,Calle 57,9,Sabado,Rapida,Media
+Calle 76,Calle 100,9,Viernes,Directa,Media
+Calle 146,Calle 1,10,Viernes,Economica,Media
+Calle 76,Calle 72,12,Sabado,Economica,Baja
+Toberin,Cardio Infantil,8,Sabado,Directa,Alta
+Flores,Pepe Sierra,11,Jueves,Transitada,Media
+Avenida 39,Calle 45,10,Jueves,Directa,Alta
+Calle 72,Calle 146,15,Jueves,Economica,Alta
+Marly,Calle 1,12,Miercoles,Directa,Baja
+Heroes,Calle 76,14,Jueves,Economica,Media
+Calle 19,Heroes,9,Jueves,Directa,Baja
+Avenida 39,Calle 142,13,Martes,Economica,Baja
+Cardio Infantil,Calle 57,8,Viernes,Directa,Media
+Calle 72,Flores,14,Jueves,Directa,Baja
+Terminal,Mazuren,15,Martes,Directa,Baja
+Calle 76,Calle 142,8,Lunes,Economica,Baja
+Calle 106,Prado Veraniego,8,Miercoles,Directa,Alta
+Flores,Calle 22,11,Sabado,Economica,Alta
+Prado Veraniego,Calle 57,13,Sabado,Transitada,Media
+Cardio Infantil,Prado Veraniego,11,Miercoles,Costosa,Media
+Calle 19,Pepe Sierra,15,Martes,Rapida,Media
+Calle 45,Cardio Infantil,12,Viernes,Rapida,Media
+Calle 57,Heroes,8,Lunes,Costosa,Media
+Prado Veraniego,Cardio Infantil,10,Lunes,Directa,Baja
+Flores,Calle 106,11,Jueves,Economica,Baja
+Alcala,Calle 106,9,Jueves,Economica,Baja
+Prado Veraniego,Alcala,14,Lunes,Costosa,Alta
+Calle 187,Calle 1,14,Miercoles,Rapida,Alta
+Flores,Profamilia,11,Miercoles,Rapida,Media
+Calle 19,Mazuren,12,Martes,Rapida,Baja
+Calle 45,Calle 1,14,Lunes,Costosa,Baja
+Alcala,Mazuren,10,Miercoles,Transitada,Alta
+Calle 146,Calle 57,9,Lunes,Transitada,Alta
+Calle 76,Flores,12,Miercoles,Rapida,Baja
+Calle 19,Calle 22,8,Jueves,Rapida,Alta
+Avenida 39,Calle 45,8,Viernes,Transitada,Media
+Cardio Infantil,Terminal,8,Lunes,Costosa,Baja
+Calle 1,Terminal,15,Viernes,Transitada,Baja
+Pepe Sierra,Toberin,14,Sabado,Economica,Alta
+Calle 19,Calle 100,13,Lunes,Economica,Baja
+Cardio Infantil,Calle 142,15,Jueves,Economica,Media
+Calle 57,Avenida 39,12,Jueves,Rapida,Media
+Calle 26,Prado Veraniego,15,Sabado,Rapida,Baja
+Calle 142,Calle 100,8,Viernes,Directa,Baja
+Calle 19,Alcala,10,Miercoles,Transitada,Baja
+Alcala,Cardio Infantil,13,Martes,Economica,Media
+Calle 45,Calle 57,15,Miercoles,Transitada,Alta
+Calle 26,Calle 19,8,Lunes,Directa,Alta
+Calle 85,Calle 76,15,Jueves,Economica,Baja
+Flores,Calle 26,14,Viernes,Transitada,Media
+Profamilia,Calle 72,8,Lunes,Rapida,Baja
+Calle 45,Calle 85,14,Viernes,Directa,Media
+Heroes,Calle 57,9,Lunes,Directa,Alta
+Calle 76,Cardio Infantil,14,Jueves,Directa,Media
+Virrey,Calle 142,12,Sabado,Directa,Media
+Prado Veraniego,Calle 19,10,Lunes,Directa,Media
+Mazuren,Prado Veraniego,15,Martes,Costosa,Media
+Calle 26,Prado Veraniego,11,Sabado,Transitada,Alta
+Avenida 39,Pepe Sierra,14,Viernes,Directa,Media
+Calle 72,Calle 85,11,Miercoles,Rapida,Baja
+Virrey,Calle 76,12,Viernes,Transitada,Media
+Calle 63,Calle 76,12,Martes,Transitada,Baja
+Calle 187,Pepe Sierra,11,Lunes,Directa,Media
+Prado Veraniego,Avenida 39,12,Lunes,Directa,Alta
+Profamilia,Calle 100,10,Martes,Transitada,Alta
+Toberin,Calle 76,13,Jueves,Costosa,Baja
+Calle 146,Cardio Infantil,10,Sabado,Transitada,Media
+Calle 106,Cardio Infantil,14,Viernes,Transitada,Media
+Calle 76,Pepe Sierra,10,Viernes,Directa,Media
+Calle 72,Calle 187,13,Miercoles,Directa,Alta
+Marly,Calle 1,10,Sabado,Rapida,Media
+Calle 72,Alcala,8,Martes,Rapida,Baja
+Calle 142,Calle 57,13,Viernes,Economica,Baja
+Calle 106,Profamilia,13,Sabado,Economica,Media
+Toberin,Calle 22,9,Miercoles,Rapida,Media
+Avenida 39,Pepe Sierra,15,Martes,Directa,Alta
+Pepe Sierra,Calle 1,12,Lunes,Directa,Alta
+Marly,Calle 63,15,Lunes,Economica,Baja
+Calle 100,Cardio Infantil,8,Lunes,Costosa,Baja
+Virrey,Marly,15,Sabado,Directa,Baja
+Calle 85,Mazuren,13,Martes,Rapida,Media
+Alcala,Calle 106,12,Lunes,Rapida,Baja
+Calle 187,Calle 72,13,Martes,Economica,Alta
+Calle 100,Calle 72,15,Viernes,Transitada,Media
+Alcala,Calle 19,8,Lunes,Directa,Baja
+Calle 57,Terminal,11,Viernes,Transitada,Alta
+Calle 26,Prado Veraniego,8,Viernes,Economica,Alta
+Calle 45,Cardio Infantil,14,Martes,Rapida,Baja
+Calle 76,Virrey,14,Viernes,Rapida,Baja
+Calle 106,Calle 72,14,Martes,Economica,Alta
+Calle 1,Heroes,13,Viernes,Transitada,Media
+Calle 146,Calle 72,10,Martes,Transitada,Alta
+Calle 76,Prado Veraniego,15,Sabado,Directa,Alta
+Calle 142,Calle 22,8,Lunes,Transitada,Alta
+Profamilia,Pepe Sierra,14,Jueves,Rapida,Media
+Calle 19,Toberin,11,Sabado,Costosa,Alta
+Virrey,Calle 26,14,Miercoles,Rapida,Alta
+Calle 22,Calle 187,11,Sabado,Directa,Alta
+Calle 187,Cardio Infantil,15,Jueves,Costosa,Media
+Calle 142,Calle 100,8,Jueves,Economica,Alta
+Heroes,Calle 26,13,Miercoles,Rapida,Baja
+Avenida 39,Calle 26,11,Sabado,Transitada,Alta
+Flores,Toberin,8,Martes,Directa,Baja
+Terminal,Calle 85,13,Lunes,Costosa,Alta
+Heroes,Calle 19,9,Miercoles,Directa,Baja
+Calle 76,Calle 1,9,Jueves,Transitada,Media
+Avenida 39,Calle 72,11,Jueves,Transitada,Alta
+Calle 142,Calle 19,11,Jueves,Economica,Baja
+Calle 142,Flores,10,Viernes,Economica,Baja
+Calle 142,Calle 1,9,Martes,Economica,Baja
+Calle 146,Calle 26,12,Miercoles,Transitada,Alta
+Calle 1,Calle 19,15,Lunes,Economica,Media
+Heroes,Calle 45,8,Lunes,Rapida,Media
+Calle 45,Calle 187,9,Viernes,Transitada,Baja
+Alcala,Heroes,9,Lunes,Economica,Media
+Calle 72,Heroes,8,Martes,Costosa,Alta
+Calle 57,Alcala,9,Sabado,Directa,Alta
+Calle 76,Calle 142,14,Jueves,Economica,Alta
+Flores,Calle 26,10,Viernes,Directa,Alta
+Calle 76,Calle 142,10,Viernes,Directa,Media
+Marly,Calle 142,14,Lunes,Economica,Baja
+Calle 106,Calle 72,13,Miercoles,Rapida,Baja
+Calle 63,Calle 142,9,Martes,Economica,Alta
+Flores,Virrey,8,Lunes,Transitada,Media
+Virrey,Cardio Infantil,10,Sabado,Rapida,Baja
+Profamilia,Alcala,9,Martes,Costosa,Media
+Mazuren,Profamilia,11,Miercoles,Economica,Baja
+Calle 76,Calle 22,12,Viernes,Economica,Alta
+Cardio Infantil,Flores,14,Jueves,Economica,Alta
+Toberin,Calle 106,15,Jueves,Costosa,Baja
+Cardio Infantil,Calle 45,12,Jueves,Rapida,Baja
+Flores,Terminal,8,Martes,Transitada,Baja
+Calle 100,Terminal,11,Martes,Transitada,Media
+Calle 187,Terminal,8,Miercoles,Transitada,Alta
+Calle 187,Profamilia,12,Jueves,Costosa,Alta
+Toberin,Prado Veraniego,15,Viernes,Rapida,Alta
+Calle 63,Calle 26,8,Viernes,Economica,Alta
+Heroes,Calle 146,14,Jueves,Economica,Alta
+Toberin,Calle 146,13,Martes,Rapida,Media
+Calle 22,Heroes,15,Martes,Rapida,Alta
+Avenida 39,Calle 146,12,Miercoles,Costosa,Alta
+Calle 22,Marly,12,Martes,Economica,Alta
+Mazuren,Calle 19,8,Viernes,Economica,Media
+Calle 1,Calle 85,8,Lunes,Directa,Baja
+Calle 100,Terminal,15,Lunes,Directa,Alta
+Prado Veraniego,Profamilia,15,Lunes,Economica,Alta
+Calle 100,Calle 76,9,Lunes,Directa,Media
+Prado Veraniego,Calle 100,12,Martes,Economica,Alta
+Avenida 39,Pepe Sierra,9,Jueves,Rapida,Media
+Virrey,Marly,14,Miercoles,Economica,Media
+Calle 76,Calle 106,12,Jueves,Rapida,Alta
+Calle 100,Avenida 39,14,Martes,Directa,Baja
+Calle 72,Profamilia,15,Martes,Rapida,Alta
+Toberin,Heroes,12,Miercoles,Costosa,Baja
+Calle 106,Prado Veraniego,8,Jueves,Transitada,Baja
+Mazuren,Calle 187,8,Viernes,Economica,Alta
+Prado Veraniego,Calle 26,13,Viernes,Economica,Alta
+Calle 57,Calle 142,13,Lunes,Rapida,Media
+Avenida 39,Calle 72,12,Jueves,Rapida,Baja
+Calle 72,Avenida 39,14,Martes,Economica,Media
+Calle 22,Marly,10,Jueves,Transitada,Media
+Calle 106,Prado Veraniego,12,Martes,Directa,Media
+Calle 72,Toberin,13,Jueves,Transitada,Baja
+Heroes,Alcala,8,Martes,Economica,Baja
+Calle 72,Terminal,10,Martes,Directa,Baja
+Calle 22,Marly,14,Lunes,Directa,Baja
+Calle 187,Heroes,14,Miercoles,Directa,Baja
+Calle 72,Calle 142,14,Sabado,Transitada,Alta
+Toberin,Virrey,9,Miercoles,Rapida,Baja
+Pepe Sierra,Alcala,15,Lunes,Directa,Alta
+Calle 146,Calle 72,15,Sabado,Costosa,Media
+Calle 26,Avenida 39,15,Lunes,Rapida,Media
+Calle 106,Calle 57,13,Jueves,Costosa,Media
+Calle 100,Calle 85,8,Jueves,Rapida,Media
+Cardio Infantil,Calle 22,11,Lunes,Rapida,Media
+Toberin,Virrey,13,Jueves,Directa,Media
+Toberin,Calle 57,15,Jueves,Directa,Alta
+Calle 85,Calle 19,10,Viernes,Rapida,Alta
+Cardio Infantil,Marly,11,Miercoles,Transitada,Media
+Calle 22,Calle 26,10,Jueves,Transitada,Media
+Alcala,Calle 85,8,Martes,Rapida,Alta
+Avenida 39,Calle 19,9,Miercoles,Rapida,Baja
+Heroes,Calle 45,14,Jueves,Transitada,Media
+Mazuren,Calle 142,14,Martes,Directa,Baja
+Calle 100,Calle 72,9,Miercoles,Directa,Baja
+Heroes,Calle 22,12,Miercoles,Costosa,Media
+Flores,Calle 26,9,Jueves,Economica,Baja
+Heroes,Calle 19,10,Martes,Directa,Baja
+Calle 26,Calle 1,9,Miercoles,Economica,Alta
+Alcala,Calle 100,14,Viernes,Transitada,Baja
+Calle 72,Mazuren,10,Miercoles,Economica,Baja
+Flores,Calle 142,9,Sabado,Economica,Alta
+Marly,Mazuren,14,Jueves,Economica,Alta
+Pepe Sierra,Calle 45,8,Viernes,Economica,Alta
+Heroes,Calle 146,14,Miercoles,Economica,Baja
+Profamilia,Pepe Sierra,15,Miercoles,Costosa,Media
+Toberin,Alcala,13,Martes,Economica,Alta
+Calle 85,Flores,13,Miercoles,Directa,Alta
+Calle 57,Avenida 39,11,Viernes,Economica,Media
+Calle 85,Flores,14,Sabado,Economica,Alta
+Calle 26,Terminal,8,Jueves,Rapida,Baja
+Prado Veraniego,Heroes,11,Jueves,Economica,Media
+Calle 63,Alcala,8,Miercoles,Costosa,Baja
+Calle 72,Calle 57,14,Martes,Transitada,Baja
+Heroes,Terminal,12,Viernes,Transitada,Baja
+Calle 100,Calle 106,9,Viernes,Transitada,Baja
+Avenida 39,Calle 26,10,Jueves,Transitada,Media
+Calle 187,Calle 106,8,Miercoles,Transitada,Alta
+Calle 106,Prado Veraniego,13,Viernes,Directa,Alta
+Calle 100,Calle 72,9,Sabado,Transitada,Media
+Prado Veraniego,Alcala,14,Viernes,Transitada,Baja
+Prado Veraniego,Calle 100,15,Sabado,Directa,Alta
+Alcala,Calle 85,12,Jueves,Costosa,Media
+Marly,Calle 100,11,Lunes,Economica,Media
+Calle 26,Cardio Infantil,12,Lunes,Directa,Media
+Calle 63,Calle 26,15,Martes,Costosa,Alta
+Calle 76,Flores,13,Jueves,Directa,Media
+Avenida 39,Calle 63,15,Lunes,Directa,Media
+Heroes,Calle 106,8,Sabado,Rapida,Baja
+Pepe Sierra,Calle 85,13,Sabado,Transitada,Alta
+Calle 187,Pepe Sierra,10,Sabado,Rapida,Media
+Calle 85,Calle 63,14,Viernes,Economica,Media
+Calle 72,Toberin,15,Lunes,Rapida,Baja
+Calle 106,Flores,11,Jueves,Rapida,Alta
+Virrey,Calle 85,12,Jueves,Transitada,Alta
+Marly,Calle 106,12,Lunes,Costosa,Alta
+Calle 142,Terminal,11,Jueves,Economica,Baja
+Calle 19,Calle 72,15,Jueves,Transitada,Alta
+Alcala,Flores,9,Miercoles,Rapida,Baja
+Calle 19,Calle 63,8,Lunes,Directa,Media
+Alcala,Prado Veraniego,13,Martes,Economica,Alta
+Calle 19,Cardio Infantil,15,Miercoles,Transitada,Media
+Profamilia,Calle 63,14,Sabado,Directa,Media
+Virrey,Calle 1,10,Martes,Transitada,Alta
+Calle 19,Calle 85,11,Sabado,Directa,Media
+Calle 1,Calle 100,10,Jueves,Economica,Alta
+Calle 85,Calle 57,13,Jueves,Transitada,Baja
+Prado Veraniego,Calle 106,14,Jueves,Directa,Media
+Prado Veraniego,Toberin,11,Jueves,Transitada,Media
+Flores,Heroes,8,Lunes,Costosa,Baja
+Calle 100,Calle 72,14,Sabado,Transitada,Baja
+Calle 1,Virrey,9,Martes,Economica,Media
+Calle 106,Calle 19,12,Viernes,Directa,Alta
+Calle 72,Calle 19,10,Jueves,Directa,Alta
+Pepe Sierra,Calle 45,11,Miercoles,Costosa,Baja
+Calle 45,Calle 1,10,Jueves,Economica,Baja
+Terminal,Calle 1,10,Sabado,Rapida,Media
+Prado Veraniego,Calle 146,8,Sabado,Transitada,Baja
+Cardio Infantil,Calle 76,9,Lunes,Rapida,Media
+Marly,Mazuren,11,Sabado,Transitada,Baja
+Calle 22,Calle 146,10,Martes,Directa,Alta
+Calle 1,Toberin,9,Martes,Rapida,Baja
+Heroes,Calle 1,10,Lunes,Economica,Media
+Pepe Sierra,Calle 1,15,Lunes,Transitada,Baja
+Calle 76,Toberin,15,Jueves,Rapida,Media
+Calle 63,Calle 106,12,Martes,Economica,Baja
+Calle 76,Pepe Sierra,13,Jueves,Transitada,Media
+Alcala,Prado Veraniego,11,Sabado,Costosa,Media
+Calle 19,Flores,15,Lunes,Economica,Baja
+Calle 26,Pepe Sierra,14,Viernes,Directa,Alta
+Calle 19,Calle 72,10,Miercoles,Directa,Media
+Prado Veraniego,Mazuren,9,Miercoles,Transitada,Baja
+Calle 76,Calle 187,9,Jueves,Rapida,Alta
+Calle 85,Profamilia,8,Lunes,Economica,Alta
+Calle 142,Calle 187,12,Miercoles,Transitada,Baja
+Calle 187,Calle 19,12,Miercoles,Transitada,Media
+Calle 146,Flores,8,Viernes,Directa,Media
+Virrey,Calle 45,12,Jueves,Transitada,Alta
+Calle 85,Calle 76,15,Miercoles,Costosa,Baja
+Calle 57,Flores,8,Martes,Transitada,Media
+Prado Veraniego,Terminal,10,Jueves,Transitada,Baja
+Terminal,Prado Veraniego,13,Martes,Directa,Media
+Calle 85,Calle 106,10,Viernes,Transitada,Baja
+Cardio Infantil,Calle 100,9,Sabado,Economica,Alta
+Calle 85,Pepe Sierra,8,Jueves,Costosa,Baja
+Calle 57,Pepe Sierra,8,Viernes,Transitada,Media
+Calle 22,Calle 72,10,Lunes,Directa,Alta
+Profamilia,Calle 57,9,Lunes,Directa,Baja
+Avenida 39,Calle 19,12,Miercoles,Rapida,Alta
+Calle 187,Calle 85,15,Lunes,Directa,Media
+Toberin,Calle 22,11,Lunes,Economica,Media
+Calle 142,Calle 19,8,Jueves,Costosa,Alta
+Calle 22,Alcala,15,Sabado,Economica,Baja
+Calle 1,Marly,15,Jueves,Rapida,Alta
+Calle 22,Calle 76,13,Martes,Costosa,Alta
+Calle 106,Calle 76,12,Lunes,Directa,Alta
+Heroes,Calle 57,15,Miercoles,Directa,Alta
+Heroes,Calle 63,15,Lunes,Directa,Baja
+Alcala,Calle 57,12,Lunes,Economica,Alta
+Profamilia,Marly,12,Viernes,Rapida,Baja
+Prado Veraniego,Alcala,10,Miercoles,Costosa,Baja
+Calle 142,Calle 63,10,Miercoles,Economica,Media
+Mazuren,Avenida 39,14,Viernes,Economica,Media
+Calle 26,Toberin,9,Jueves,Rapida,Baja
+Calle 45,Virrey,8,Lunes,Economica,Alta
+Calle 45,Heroes,11,Jueves,Rapida,Media
+Cardio Infantil,Profamilia,9,Lunes,Costosa,Media
+Avenida 39,Toberin,14,Martes,Transitada,Alta
+Calle 85,Marly,8,Martes,Costosa,Baja
+Avenida 39,Pepe Sierra,8,Martes,Transitada,Alta
+Virrey,Cardio Infantil,13,Martes,Economica,Media
+Toberin,Calle 19,12,Martes,Costosa,Alta
+Avenida 39,Calle 63,10,Miercoles,Economica,Alta
+Calle 1,Profamilia,11,Martes,Economica,Alta
+Profamilia,Calle 1,11,Miercoles,Transitada,Baja
+Pepe Sierra,Calle 85,13,Lunes,Transitada,Media
+Flores,Calle 1,8,Martes,Transitada,Baja
+Alcala,Pepe Sierra,11,Sabado,Economica,Alta
+Calle 72,Heroes,15,Miercoles,Economica,Baja
+Calle 1,Flores,14,Lunes,Rapida,Media
+Calle 72,Prado Veraniego,14,Lunes,Transitada,Alta
+Terminal,Calle 142,11,Lunes,Rapida,Alta
+Cardio Infantil,Calle 22,12,Martes,Directa,Alta
+Calle 63,Calle 100,9,Martes,Rapida,Media
+Prado Veraniego,Marly,11,Miercoles,Rapida,Baja
+Calle 106,Prado Veraniego,14,Lunes,Costosa,Baja
+Calle 63,Calle 142,8,Miercoles,Costosa,Baja
+Avenida 39,Calle 63,10,Viernes,Costosa,Media
+Calle 26,Calle 142,8,Viernes,Costosa,Baja
+Calle 72,Profamilia,13,Martes,Costosa,Baja
+Calle 63,Calle 72,11,Martes,Costosa,Media
+Prado Veraniego,Profamilia,13,Miercoles,Rapida,Alta
+Mazuren,Toberin,8,Miercoles,Transitada,Alta
+Cardio Infantil,Pepe Sierra,10,Martes,Costosa,Alta
+Mazuren,Calle 72,14,Sabado,Directa,Alta
+Marly,Toberin,9,Jueves,Rapida,Media
+Calle 85,Calle 63,9,Miercoles,Rapida,Alta
+Pepe Sierra,Virrey,9,Sabado,Costosa,Alta
+Calle 142,Calle 106,9,Sabado,Rapida,Alta
+Calle 22,Calle 1,11,Miercoles,Rapida,Alta
+Terminal,Calle 26,11,Lunes,Economica,Alta
+Heroes,Mazuren,10,Jueves,Directa,Baja
+Calle 100,Calle 106,13,Sabado,Transitada,Media
+Calle 1,Calle 85,8,Viernes,Economica,Media
+Calle 76,Calle 100,12,Viernes,Transitada,Baja
+Calle 142,Terminal,10,Viernes,Rapida,Alta
+Calle 1,Prado Veraniego,9,Jueves,Transitada,Baja
+Terminal,Heroes,9,Jueves,Economica,Alta
+Pepe Sierra,Calle 106,14,Lunes,Rapida,Alta
+Virrey,Avenida 39,13,Martes,Economica,Alta
+Terminal,Flores,9,Jueves,Transitada,Media
+Flores,Calle 72,13,Martes,Transitada,Media
+Heroes,Calle 45,10,Martes,Transitada,Alta
+Calle 106,Toberin,13,Lunes,Transitada,Alta
+Calle 26,Calle 106,8,Lunes,Economica,Alta
+Prado Veraniego,Toberin,14,Jueves,Economica,Media
+Profamilia,Calle 146,8,Martes,Rapida,Baja
+Calle 22,Calle 85,11,Jueves,Rapida,Media
+Marly,Toberin,9,Sabado,Economica,Media
+Pepe Sierra,Flores,14,Sabado,Directa,Baja
+Calle 63,Calle 76,11,Viernes,Transitada,Alta
+Calle 100,Calle 187,14,Lunes,Costosa,Baja
+Calle 72,Calle 146,13,Lunes,Rapida,Media
+Heroes,Virrey,11,Miercoles,Transitada,Baja
+Flores,Calle 22,9,Viernes,Directa,Alta
+Calle 57,Calle 1,15,Viernes,Costosa,Alta
+Avenida 39,Pepe Sierra,12,Jueves,Transitada,Baja
+Avenida 39,Calle 1,12,Martes,Transitada,Baja
+Profamilia,Calle 72,14,Lunes,Rapida,Media
+Calle 142,Toberin,14,Viernes,Rapida,Media
+Calle 19,Calle 76,10,Miercoles,Costosa,Baja
+Cardio Infantil,Calle 1,13,Jueves,Costosa,Baja
+Calle 26,Calle 57,9,Viernes,Economica,Media
+Mazuren,Calle 26,14,Jueves,Directa,Media
+Virrey,Calle 1,11,Sabado,Economica,Alta
+Calle 142,Calle 72,8,Martes,Rapida,Alta
+Calle 85,Flores,9,Miercoles,Transitada,Media
+Cardio Infantil,Calle 106,15,Miercoles,Economica,Baja
+Calle 85,Calle 100,14,Martes,Economica,Alta
+Calle 76,Calle 85,11,Lunes,Economica,Media
+Heroes,Calle 187,13,Sabado,Rapida,Media
+Pepe Sierra,Terminal,11,Martes,Rapida,Alta
+Calle 57,Calle 72,13,Sabado,Directa,Baja
+Profamilia,Terminal,8,Viernes,Costosa,Baja
+Heroes,Calle 19,12,Jueves,Rapida,Media
+Calle 76,Calle 63,10,Jueves,Economica,Baja
+Marly,Calle 19,14,Jueves,Costosa,Media
+Calle 142,Mazuren,10,Viernes,Rapida,Media
+Calle 146,Pepe Sierra,11,Viernes,Costosa,Alta
+Cardio Infantil,Calle 100,9,Miercoles,Transitada,Media
+Terminal,Calle 187,9,Lunes,Directa,Media
+Pepe Sierra,Calle 100,11,Miercoles,Rapida,Media
+Calle 146,Calle 72,11,Viernes,Economica,Media
+Calle 100,Calle 63,10,Jueves,Costosa,Baja
+Calle 106,Virrey,8,Jueves,Costosa,Baja
+Calle 100,Toberin,14,Viernes,Directa,Alta
+Calle 19,Calle 57,14,Lunes,Transitada,Baja
+Flores,Terminal,11,Lunes,Costosa,Baja
+Calle 187,Avenida 39,12,Jueves,Costosa,Alta
+Calle 100,Calle 72,10,Lunes,Rapida,Alta
+Calle 146,Avenida 39,11,Viernes,Economica,Baja
+Calle 72,Calle 22,10,Lunes,Directa,Baja
+Calle 76,Terminal,9,Miercoles,Directa,Baja
+Cardio Infantil,Calle 22,12,Miercoles,Costosa,Alta
+Calle 146,Calle 19,9,Lunes,Costosa,Media
+Terminal,Calle 57,12,Martes,Costosa,Baja
+Calle 63,Calle 142,14,Miercoles,Transitada,Baja
+Profamilia,Calle 1,8,Viernes,Costosa,Baja
+Calle 26,Calle 106,8,Viernes,Economica,Media
+Calle 100,Calle 57,9,Martes,Directa,Media
+Avenida 39,Calle 76,12,Miercoles,Costosa,Media
+Mazuren,Virrey,12,Jueves,Transitada,Baja
+Calle 22,Calle 57,13,Lunes,Transitada,Alta
+Profamilia,Pepe Sierra,13,Lunes,Costosa,Baja
+Calle 187,Calle 142,13,Martes,Costosa,Alta
+Calle 85,Calle 57,14,Sabado,Economica,Baja
+Cardio Infantil,Calle 100,15,Sabado,Economica,Media
+Calle 63,Calle 1,8,Jueves,Rapida,Baja
+Alcala,Marly,15,Miercoles,Costosa,Alta
+Calle 106,Calle 142,9,Miercoles,Rapida,Alta
+Cardio Infantil,Calle 142,12,Martes,Transitada,Baja
+Calle 106,Calle 85,8,Viernes,Transitada,Baja
+Calle 100,Mazuren,12,Jueves,Rapida,Media
+Calle 106,Terminal,8,Martes,Costosa,Media
+Calle 57,Heroes,9,Sabado,Economica,Alta
+Marly,Calle 100,9,Martes,Directa,Media
+Virrey,Mazuren,14,Sabado,Economica,Baja
+Terminal,Calle 142,9,Martes,Rapida,Media
+Calle 19,Terminal,8,Sabado,Directa,Baja
+Prado Veraniego,Terminal,12,Jueves,Rapida,Media
+Terminal,Calle 45,11,Sabado,Transitada,Alta
+Terminal,Calle 26,8,Miercoles,Economica,Media
+Calle 76,Mazuren,15,Martes,Transitada,Media
+Calle 26,Virrey,13,Lunes,Directa,Baja
+Calle 22,Calle 19,8,Viernes,Rapida,Alta
+Calle 100,Calle 146,14,Jueves,Transitada,Baja
+Calle 142,Toberin,9,Viernes,Transitada,Baja
+Flores,Terminal,12,Lunes,Transitada,Baja
+Calle 22,Marly,12,Jueves,Transitada,Baja
+Calle 142,Profamilia,12,Viernes,Transitada,Media
+Profamilia,Alcala,12,Viernes,Costosa,Baja
+Calle 187,Calle 72,14,Miercoles,Rapida,Baja
+Calle 1,Calle 22,13,Miercoles,Costosa,Baja
+Calle 100,Calle 19,8,Lunes,Transitada,Alta
+Alcala,Calle 45,12,Miercoles,Economica,Media
+Cardio Infantil,Calle 76,10,Sabado,Economica,Alta
+Virrey,Avenida 39,8,Lunes,Directa,Media
+Prado Veraniego,Calle 22,10,Miercoles,Economica,Baja
+Mazuren,Virrey,12,Miercoles,Transitada,Media
+Cardio Infantil,Flores,10,Viernes,Economica,Media
+Pepe Sierra,Flores,15,Sabado,Directa,Alta
+Cardio Infantil,Heroes,11,Lunes,Transitada,Alta
+Calle 187,Calle 45,8,Lunes,Costosa,Baja
+Calle 72,Heroes,12,Lunes,Rapida,Media
+Calle 22,Virrey,8,Martes,Transitada,Media
+Calle 100,Calle 142,10,Viernes,Economica,Alta
+Calle 100,Calle 72,11,Miercoles,Transitada,Media
+Calle 57,Calle 142,9,Jueves,Transitada,Media
+Pepe Sierra,Calle 85,10,Miercoles,Economica,Alta
+Virrey,Calle 187,12,Miercoles,Economica,Baja
+Calle 26,Calle 106,11,Miercoles,Transitada,Alta
+Calle 45,Pepe Sierra,13,Miercoles,Directa,Baja
+Calle 19,Calle 57,14,Jueves,Economica,Baja
+Marly,Profamilia,14,Lunes,Costosa,Alta
+Mazuren,Alcala,15,Martes,Rapida,Alta
+Calle 142,Calle 45,12,Jueves,Costosa,Alta
+Avenida 39,Toberin,8,Sabado,Directa,Alta
+Calle 72,Marly,8,Viernes,Rapida,Alta
+Virrey,Calle 142,14,Viernes,Rapida,Baja
+Heroes,Calle 63,8,Sabado,Costosa,Media
+Calle 142,Calle 45,10,Sabado,Rapida,Alta
+Calle 57,Calle 106,14,Martes,Directa,Media
+Pepe Sierra,Prado Veraniego,13,Sabado,Costosa,Alta
+Cardio Infantil,Profamilia,10,Viernes,Costosa,Baja
+Profamilia,Calle 85,14,Viernes,Directa,Baja
+Flores,Toberin,12,Lunes,Economica,Media
+Calle 142,Calle 1,8,Sabado,Costosa,Media
+Cardio Infantil,Avenida 39,10,Lunes,Directa,Alta
+Marly,Avenida 39,11,Viernes,Directa,Alta
+Terminal,Cardio Infantil,8,Miercoles,Transitada,Media
+Calle 63,Mazuren,8,Jueves,Directa,Media
+Calle 72,Avenida 39,12,Viernes,Economica,Baja
+Terminal,Pepe Sierra,12,Sabado,Economica,Baja
+Terminal,Calle 57,13,Jueves,Transitada,Media
+Prado Veraniego,Calle 142,8,Sabado,Rapida,Alta
+Calle 106,Avenida 39,11,Miercoles,Economica,Baja
+Calle 142,Virrey,11,Sabado,Costosa,Baja
+Calle 100,Calle 19,13,Jueves,Directa,Baja
+Calle 146,Calle 85,12,Viernes,Costosa,Alta
+Calle 57,Cardio Infantil,13,Lunes,Directa,Media
+Calle 85,Marly,13,Martes,Directa,Baja
+Calle 106,Calle 76,9,Martes,Costosa,Media
+Profamilia,Alcala,14,Lunes,Rapida,Baja
+Calle 57,Cardio Infantil,9,Jueves,Directa,Media
+Calle 100,Calle 72,15,Sabado,Costosa,Media
+Calle 45,Heroes,13,Viernes,Costosa,Media
+Profamilia,Calle 106,13,Lunes,Rapida,Media
+Virrey,Avenida 39,9,Miercoles,Rapida,Baja
+Calle 142,Calle 19,9,Martes,Costosa,Media
+Avenida 39,Calle 76,14,Miercoles,Costosa,Baja
+Pepe Sierra,Calle 57,12,Martes,Rapida,Media
+Calle 146,Alcala,13,Jueves,Costosa,Baja
+Alcala,Calle 76,8,Jueves,Costosa,Alta
+Calle 26,Calle 187,11,Miercoles,Directa,Baja
+Toberin,Avenida 39,13,Viernes,Transitada,Media
+Cardio Infantil,Toberin,10,Viernes,Directa,Baja
+Calle 26,Terminal,14,Sabado,Economica,Alta
+Avenida 39,Calle 142,11,Sabado,Economica,Alta
+Prado Veraniego,Cardio Infantil,14,Lunes,Rapida,Baja
+Heroes,Calle 100,9,Viernes,Rapida,Media
+Mazuren,Calle 146,13,Viernes,Transitada,Alta
+Calle 142,Prado Veraniego,13,Jueves,Costosa,Media
+Calle 26,Calle 106,11,Sabado,Costosa,Alta
+Cardio Infantil,Alcala,11,Sabado,Rapida,Baja
